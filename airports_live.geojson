@@ -7,6 +7,8 @@
                 "name": "Albuquerque (ABQ)",
                 "icao": "ABQ",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "715,000",
                 "country": "United States"
             },
@@ -24,6 +26,8 @@
                 "name": "Akureyri (AEY)",
                 "icao": "AEY",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "31,000",
                 "country": "Iceland"
             },
@@ -41,6 +45,8 @@
                 "name": "Malaga-Costa del Sol (AGP)",
                 "icao": "AGP",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "1,070,000",
                 "country": "Spain"
             },
@@ -58,6 +64,8 @@
                 "name": "Alicante-Elche (ALC)",
                 "icao": "ALC",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "800,000",
                 "country": "Spain"
             },
@@ -75,6 +83,8 @@
                 "name": "Amsterdam Schiphol (AMS)",
                 "icao": "AMS",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,670,000",
                 "country": "Netherlands"
             },
@@ -92,6 +102,8 @@
                 "name": "Anchorage (ANC)",
                 "icao": "ANC",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "395,000",
                 "country": "United States"
             },
@@ -109,6 +121,8 @@
                 "name": "Atlanta (ATL)",
                 "icao": "ATL",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "6,300,000",
                 "country": "United States"
             },
@@ -126,6 +140,8 @@
                 "name": "Austin (AUS)",
                 "icao": "AUS",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,500,000",
                 "country": "United States"
             },
@@ -143,6 +159,8 @@
                 "name": "Saman\u00e1 El Catey (AZS)",
                 "icao": "AZS",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "118,000",
                 "country": "Dominican Republic"
             },
@@ -160,6 +178,8 @@
                 "name": "Barcelona-El Prat (BCN)",
                 "icao": "BCN",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "5,100,000",
                 "country": "Spain"
             },
@@ -177,6 +197,8 @@
                 "name": "Bermuda (BDA)",
                 "icao": "BDA",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "64,500",
                 "country": "Bermuda"
             },
@@ -194,6 +216,8 @@
                 "name": "Hartford (BDL)",
                 "icao": "BDL",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "500,000",
                 "country": "United States"
             },
@@ -211,6 +235,8 @@
                 "name": "Belfast International (BFS)",
                 "icao": "BFS",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "656,000",
                 "country": "United Kingdom"
             },
@@ -228,6 +254,8 @@
                 "name": "Birmingham (BHX)",
                 "icao": "BHX",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "4,330,000",
                 "country": "United Kingdom"
             },
@@ -245,6 +273,8 @@
                 "name": "Bastia-Poretta (BIA)",
                 "icao": "BIA",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "64,000",
                 "country": "France"
             },
@@ -262,6 +292,8 @@
                 "name": "Bellingham Intl (BLI)",
                 "icao": "BLI",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "97,000",
                 "country": "United States"
             },
@@ -279,6 +311,8 @@
                 "name": "Billund (BLL)",
                 "icao": "BLL",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "70,000",
                 "country": "Denmark"
             },
@@ -296,6 +330,8 @@
                 "name": "Nashville (BNA)",
                 "icao": "BNA",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,140,000",
                 "country": "United States"
             },
@@ -313,6 +349,8 @@
                 "name": "Bordeaux-M\u00e9rignac (BOD)",
                 "icao": "BOD",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,026,000",
                 "country": "France"
             },
@@ -330,6 +368,8 @@
                 "name": "Boston (BOS)",
                 "icao": "BOS",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "5,050,000",
                 "country": "United States"
             },
@@ -347,6 +387,8 @@
                 "name": "Bristol Airport (BRS)",
                 "icao": "BRS",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "729,000",
                 "country": "United Kingdom"
             },
@@ -364,6 +406,8 @@
                 "name": "Brussels-Zaventem (BRU)",
                 "icao": "BRU",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,150,000",
                 "country": "Belgium"
             },
@@ -381,6 +425,8 @@
                 "name": "Basel-Mulhouse (BSL)",
                 "icao": "BSL",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "583,000",
                 "country": "Switzerland"
             },
@@ -398,6 +444,8 @@
                 "name": "Buffalo (BUF)",
                 "icao": "BUF",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "276,000",
                 "country": "United States"
             },
@@ -415,6 +463,8 @@
                 "name": "Hollywood Burbank Airport (BUR)",
                 "icao": "BUR",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "280,000",
                 "country": "United States"
             },
@@ -432,6 +482,8 @@
                 "name": "Baltimore (BWI)",
                 "icao": "BWI",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "860,000",
                 "country": "United States"
             },
@@ -449,6 +501,8 @@
                 "name": "Cap-Ha\u00eftien (CAP)",
                 "icao": "CAP",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "332,000",
                 "country": "Haiti"
             },
@@ -466,6 +520,8 @@
                 "name": "Cayo Coco (CCC)",
                 "icao": "CCC",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "8,000",
                 "country": "Cuba"
             },
@@ -483,6 +539,8 @@
                 "name": "Paris CDG (CDG)",
                 "icao": "CDG",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "13,400,000",
                 "country": "France"
             },
@@ -500,6 +558,8 @@
                 "name": "Charleston (CHS)",
                 "icao": "CHS",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "160,000",
                 "country": "United States"
             },
@@ -517,6 +577,8 @@
                 "name": "Jeju (CJU)",
                 "icao": "CJU",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "680,000",
                 "country": "South Korea"
             },
@@ -534,6 +596,8 @@
                 "name": "Cleveland (CLE)",
                 "icao": "CLE",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "380,000",
                 "country": "United States"
             },
@@ -551,6 +615,8 @@
                 "name": "Charlotte (CLT)",
                 "icao": "CLT",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,407,000",
                 "country": "United States"
             },
@@ -568,6 +634,8 @@
                 "name": "Camag\u00fcey (CMW)",
                 "icao": "CMW",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "330,000",
                 "country": "Cuba"
             },
@@ -585,6 +653,8 @@
                 "name": "Copenhagen Kastrup (CPH)",
                 "icao": "CPH",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,050,000",
                 "country": "Denmark"
             },
@@ -602,6 +672,8 @@
                 "name": "Brussels South Charleroi (CRL)",
                 "icao": "CRL",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "425,000",
                 "country": "Belgium"
             },
@@ -619,6 +691,8 @@
                 "name": "Cincinnati (CVG)",
                 "icao": "CVG",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,000,000",
                 "country": "United States"
             },
@@ -636,6 +710,8 @@
                 "name": "Daytona Beach International (DAB)",
                 "icao": "DAB",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "690,000",
                 "country": "United States"
             },
@@ -653,6 +729,8 @@
                 "name": "Washington Reagan (DCA)",
                 "icao": "DCA",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "6,304,000",
                 "country": "United States"
             },
@@ -670,6 +748,8 @@
                 "name": "Denver (DEN)",
                 "icao": "DEN",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "3,025,000",
                 "country": "United States"
             },
@@ -687,6 +767,8 @@
                 "name": "Dallas-Fort Worth (DFW)",
                 "icao": "DFW",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "8,580,000",
                 "country": "United States"
             },
@@ -704,6 +786,8 @@
                 "name": "Detroit (DTW)",
                 "icao": "DTW",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "3,837,000",
                 "country": "United States"
             },
@@ -721,6 +805,8 @@
                 "name": "Dublin (DUB)",
                 "icao": "DUB",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "1,500,000",
                 "country": "Ireland"
             },
@@ -738,6 +824,8 @@
                 "name": "Edinburgh (EDI)",
                 "icao": "EDI",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "820,000",
                 "country": "United Kingdom"
             },
@@ -755,6 +843,8 @@
                 "name": "Newark (EWR)",
                 "icao": "EWR",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "6,100,000",
                 "country": "United States"
             },
@@ -772,6 +862,8 @@
                 "name": "Key West (EYW)",
                 "icao": "EYW",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "25,000",
                 "country": "United States"
             },
@@ -789,6 +881,8 @@
                 "name": "Fairbanks (FAI)",
                 "icao": "FAI",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "32,000",
                 "country": "United States"
             },
@@ -806,6 +900,8 @@
                 "name": "Faro (FAO)",
                 "icao": "FAO",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "71,000",
                 "country": "Portugal"
             },
@@ -823,6 +919,8 @@
                 "name": "Fort-de-France (FDF)",
                 "icao": "FDF",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "337,000",
                 "country": "France"
             },
@@ -840,6 +938,8 @@
                 "name": "Funchal (Madeira) (FNC)",
                 "icao": "FNC",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "105,000",
                 "country": "Portugal"
             },
@@ -857,6 +957,8 @@
                 "name": "Pyongyang Sunan (FNJ)",
                 "icao": "FNJ",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "3,160,000",
                 "country": "North Korea"
             },
@@ -874,6 +976,8 @@
                 "name": "Fort Lauderdale (FLL)",
                 "icao": "FLL",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "709,000",
                 "country": "United States"
             },
@@ -891,6 +995,8 @@
                 "name": "Freeport (FPO)",
                 "icao": "FPO",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "27,000",
                 "country": "Bahamas"
             },
@@ -908,6 +1014,8 @@
                 "name": "Saint Pierre (FSP)",
                 "icao": "FSP",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "6,000",
                 "country": "Saint Pierre and Miquelon"
             },
@@ -925,6 +1033,8 @@
                 "name": "Owen Roberts Intl (GCM)",
                 "icao": "GCM",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "77,000",
                 "country": "Cayman Islands"
             },
@@ -942,6 +1052,8 @@
                 "name": "Glasgow (GLA)",
                 "icao": "GLA",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "635,000",
                 "country": "United Kingdom"
             },
@@ -959,6 +1071,8 @@
                 "name": "Seoul Gimpo (GMP)",
                 "icao": "GMP",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "9,000,000",
                 "country": "South Korea"
             },
@@ -976,6 +1090,8 @@
                 "name": "Nuuk (GOH)",
                 "icao": "GOH",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "20,000",
                 "country": "Greenland"
             },
@@ -993,6 +1109,8 @@
                 "name": "Geneva (GVA)",
                 "icao": "GVA",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "650,000",
                 "country": "Switzerland"
             },
@@ -1010,6 +1128,8 @@
                 "name": "Havana (HAV)",
                 "icao": "HAV",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "2,160,000",
                 "country": "Cuba"
             },
@@ -1027,6 +1147,8 @@
                 "name": "Hong Kong (HKG)",
                 "icao": "HKG",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "7,500,000",
                 "country": "Hong Kong"
             },
@@ -1044,6 +1166,8 @@
                 "name": "Honolulu (HNL)",
                 "icao": "HNL",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "350,000",
                 "country": "United States"
             },
@@ -1061,6 +1185,8 @@
                 "name": "Holgu\u00edn (HOG)",
                 "icao": "HOG",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "398,000",
                 "country": "Cuba"
             },
@@ -1078,6 +1204,8 @@
                 "name": "New Haven (HVN)",
                 "icao": "HVN",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "141,000",
                 "country": "United States"
             },
@@ -1095,6 +1223,8 @@
                 "name": "Washington-Dulles (IAD)",
                 "icao": "IAD",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "6,304,000",
                 "country": "United States"
             },
@@ -1112,6 +1242,8 @@
                 "name": "Houston (IAH)",
                 "icao": "IAH",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,435,000",
                 "country": "United States"
             },
@@ -1129,6 +1261,8 @@
                 "name": "Ibiza (IBZ)",
                 "icao": "IBZ",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "162,000",
                 "country": "Spain"
             },
@@ -1146,6 +1280,8 @@
                 "name": "Seoul Incheon (ICN)",
                 "icao": "ICN",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "26,000,000",
                 "country": "South Korea"
             },
@@ -1163,6 +1299,8 @@
                 "name": "Indianapolis (IND)",
                 "icao": "IND",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "893,000",
                 "country": "United States"
             },
@@ -1180,6 +1318,8 @@
                 "name": "Jacksonville (JAX)",
                 "icao": "JAX",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "911,000",
                 "country": "United States"
             },
@@ -1197,6 +1337,8 @@
                 "name": "New York JFK (JFK)",
                 "icao": "JFK",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "8,467,000",
                 "country": "United States"
             },
@@ -1214,6 +1356,8 @@
                 "name": "Qaqortoq (JJU)",
                 "icao": "JJU",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "3,200",
                 "country": "Greenland"
             },
@@ -1231,6 +1375,8 @@
                 "name": "Juneau International (JNU)",
                 "icao": "JNU",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "32,000",
                 "country": "United States"
             },
@@ -1248,6 +1394,8 @@
                 "name": "Keflav\u00edk (KEF)",
                 "icao": "KEF",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "35,000",
                 "country": "Iceland"
             },
@@ -1265,6 +1413,8 @@
                 "name": "Kaohsiung International (KHH)",
                 "icao": "KHH",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,723,000",
                 "country": "Taiwan"
             },
@@ -1282,6 +1432,8 @@
                 "name": "Kingston Norman Manley (KIN)",
                 "icao": "KIN",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "608,000",
                 "country": "Jamaica"
             },
@@ -1299,6 +1451,8 @@
                 "name": "Kona (KOA)",
                 "icao": "KOA",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "24,000",
                 "country": "United States"
             },
@@ -1316,6 +1470,8 @@
                 "name": "Ketchikan International (KTN)",
                 "icao": "KTN",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "14,000",
                 "country": "United States"
             },
@@ -1333,6 +1489,8 @@
                 "name": "Las Vegas (LAS)",
                 "icao": "LAS",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "3,041,000",
                 "country": "United States"
             },
@@ -1350,6 +1508,8 @@
                 "name": "Los Angeles (LAX)",
                 "icao": "LAX",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "9,700,000",
                 "country": "United States"
             },
@@ -1367,6 +1527,8 @@
                 "name": "London City (LCY)",
                 "icao": "LCY",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "9,900,000",
                 "country": "United Kingdom"
             },
@@ -1384,6 +1546,8 @@
                 "name": "LaGuardia (LGA)",
                 "icao": "LGA",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "2,000,000",
                 "country": "United States"
             },
@@ -1401,6 +1565,8 @@
                 "name": "London Gatwick (LGW)",
                 "icao": "LGW",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "6,000,000",
                 "country": "United Kingdom"
             },
@@ -1418,6 +1584,8 @@
                 "name": "London Heathrow (LHR)",
                 "icao": "LHR",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "9,900,000",
                 "country": "United Kingdom"
             },
@@ -1435,6 +1603,8 @@
                 "name": "Lihue (LIH)",
                 "icao": "LIH",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "8,100",
                 "country": "United States"
             },
@@ -1452,6 +1622,8 @@
                 "name": "Lisbon (LIS)",
                 "icao": "LIS",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "3,041,000",
                 "country": "Portugal"
             },
@@ -1469,6 +1641,8 @@
                 "name": "Gran Canaria (LPA)",
                 "icao": "LPA",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "860,000",
                 "country": "Spain"
             },
@@ -1486,6 +1660,8 @@
                 "name": "La Romana (LRM)",
                 "icao": "LRM",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "250,000",
                 "country": "Dominican Republic"
             },
@@ -1503,6 +1679,8 @@
                 "name": "Luxembourg-Findel (LUX)",
                 "icao": "LUX",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "687,000",
                 "country": "Luxembourg"
             },
@@ -1520,6 +1698,8 @@
                 "name": "Lyon-Saint Exup\u00e9ry (LYS)",
                 "icao": "LYS",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,800,000",
                 "country": "France"
             },
@@ -1537,6 +1717,8 @@
                 "name": "Madrid-Barajas (MAD)",
                 "icao": "MAD",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "6,834,000",
                 "country": "Spain"
             },
@@ -1554,6 +1736,8 @@
                 "name": "Menorca (MAH)",
                 "icao": "MAH",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "98,000",
                 "country": "Spain"
             },
@@ -1571,6 +1755,8 @@
                 "name": "Manchester (MAN)",
                 "icao": "MAN",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,853,000",
                 "country": "United Kingdom"
             },
@@ -1588,6 +1774,8 @@
                 "name": "Montego Bay (MBJ)",
                 "icao": "MBJ",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "124,000",
                 "country": "Jamaica"
             },
@@ -1605,6 +1793,8 @@
                 "name": "Kansas City (MCI)",
                 "icao": "MCI",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,300,000",
                 "country": "United States"
             },
@@ -1622,6 +1812,8 @@
                 "name": "Orlando (MCO)",
                 "icao": "MCO",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,760,000",
                 "country": "United States"
             },
@@ -1639,6 +1831,8 @@
                 "name": "Chicago Midway (MDW)",
                 "icao": "MDW",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,600,000",
                 "country": "United States"
             },
@@ -1656,6 +1850,8 @@
                 "name": "Memphis (MEM)",
                 "icao": "MEM",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "630,000",
                 "country": "United States"
             },
@@ -1673,6 +1869,8 @@
                 "name": "Macau (MFM)",
                 "icao": "MFM",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "715,000",
                 "country": "Macau"
             },
@@ -1690,6 +1888,8 @@
                 "name": "Miami (MIA)",
                 "icao": "MIA",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "6,429,000",
                 "country": "United States"
             },
@@ -1707,6 +1907,8 @@
                 "name": "Marseille Provence (MRS)",
                 "icao": "MRS",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,654,000",
                 "country": "France"
             },
@@ -1724,6 +1926,8 @@
                 "name": "Minneapolis (MSP)",
                 "icao": "MSP",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "3,800,000",
                 "country": "United States"
             },
@@ -1741,6 +1945,8 @@
                 "name": "New Orleans (MSY)",
                 "icao": "MSY",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "970,000",
                 "country": "United States"
             },
@@ -1758,6 +1964,8 @@
                 "name": "Myrtle Beach (MYR)",
                 "icao": "MYR",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "71,000",
                 "country": "United States"
             },
@@ -1775,6 +1983,8 @@
                 "name": "Nassau (NAS)",
                 "icao": "NAS",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "328,000",
                 "country": "Bahamas"
             },
@@ -1792,6 +2002,8 @@
                 "name": "Nice C\u00f4te d'Azur (NCE)",
                 "icao": "NCE",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "960,000",
                 "country": "France"
             },
@@ -1809,6 +2021,8 @@
                 "name": "Nantes Atlantique (NTE)",
                 "icao": "NTE",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "716,000",
                 "country": "France"
             },
@@ -1826,6 +2040,8 @@
                 "name": "Oakland (OAK)",
                 "icao": "OAK",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,500,000",
                 "country": "United States"
             },
@@ -1843,6 +2059,8 @@
                 "name": "Kahului (OGG)",
                 "icao": "OGG",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "27,000",
                 "country": "United States"
             },
@@ -1860,6 +2078,8 @@
                 "name": "Omaha (OMA)",
                 "icao": "OMA",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "958,000",
                 "country": "United States"
             },
@@ -1877,6 +2097,8 @@
                 "name": "Ontario International (ONT)",
                 "icao": "ONT",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "4,600,000",
                 "country": "United States"
             },
@@ -1894,6 +2116,8 @@
                 "name": "Porto (OPO)",
                 "icao": "OPO",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,330,000",
                 "country": "Portugal"
             },
@@ -1911,6 +2135,8 @@
                 "name": "Chicago O'Hare (ORD)",
                 "icao": "ORD",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "9,230,000",
                 "country": "United States"
             },
@@ -1928,6 +2154,8 @@
                 "name": "Norfolk (ORF)",
                 "icao": "ORF",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "896,000",
                 "country": "United States"
             },
@@ -1945,6 +2173,8 @@
                 "name": "Cork Airport (ORK)",
                 "icao": "ORK",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "590,000",
                 "country": "Ireland"
             },
@@ -1962,6 +2192,8 @@
                 "name": "Paris-Orly (ORY)",
                 "icao": "ORY",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "6,000,000",
                 "country": "France"
             },
@@ -1979,6 +2211,8 @@
                 "name": "Port-au-Prince (PAP)",
                 "icao": "PAP",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "3,206,000",
                 "country": "Haiti"
             },
@@ -1996,6 +2230,8 @@
                 "name": "West Palm Beach (PBI)",
                 "icao": "PBI",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "150,000",
                 "country": "United States"
             },
@@ -2013,6 +2249,8 @@
                 "name": "Ponta Delgada (Azores) (PDL)",
                 "icao": "PDL",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "68,000",
                 "country": "Portugal"
             },
@@ -2030,6 +2268,8 @@
                 "name": "Portland (PDX)",
                 "icao": "PDX",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,540,000",
                 "country": "United States"
             },
@@ -2047,6 +2287,8 @@
                 "name": "Philadelphia (PHL)",
                 "icao": "PHL",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "6,290,000",
                 "country": "United States"
             },
@@ -2064,6 +2306,8 @@
                 "name": "Phoenix (PHX)",
                 "icao": "PHX",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "4,887,000",
                 "country": "United States"
             },
@@ -2081,6 +2325,8 @@
                 "name": "St. Pete-Clearwater (PIE)",
                 "icao": "PIE",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "271,000",
                 "country": "United States"
             },
@@ -2098,6 +2344,8 @@
                 "name": "Pittsburgh (PIT)",
                 "icao": "PIT",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,727,000",
                 "country": "United States"
             },
@@ -2115,6 +2363,8 @@
                 "name": "Providenciales (PLS)",
                 "icao": "PLS",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "34,000",
                 "country": "Turks and Caicos"
             },
@@ -2132,6 +2382,8 @@
                 "name": "Palma de Mallorca (PMI)",
                 "icao": "PMI",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "488,000",
                 "country": "Spain"
             },
@@ -2149,6 +2401,8 @@
                 "name": "Puerto Plata (POP)",
                 "icao": "POP",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "330,000",
                 "country": "Dominican Republic"
             },
@@ -2166,6 +2420,8 @@
                 "name": "Palm Springs (PSP)",
                 "icao": "PSP",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "500,000",
                 "country": "United States"
             },
@@ -2183,6 +2439,8 @@
                 "name": "Pointe-\u00e0-Pitre (PTP)",
                 "icao": "PTP",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "310,000",
                 "country": "France"
             },
@@ -2200,6 +2458,8 @@
                 "name": "Punta Cana (PUJ)",
                 "icao": "PUJ",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "150,000",
                 "country": "Dominican Republic"
             },
@@ -2217,6 +2477,8 @@
                 "name": "Busan Gimhae (PUS)",
                 "icao": "PUS",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "3,400,000",
                 "country": "South Korea"
             },
@@ -2234,6 +2496,8 @@
                 "name": "Providence (PVD)",
                 "icao": "PVD",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "196,000",
                 "country": "United States"
             },
@@ -2251,6 +2515,8 @@
                 "name": "Portland (Maine) (PWM)",
                 "icao": "PWM",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "68,000",
                 "country": "United States"
             },
@@ -2268,6 +2534,8 @@
                 "name": "Raleigh-Durham (RDU)",
                 "icao": "RDU",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "1,688,000",
                 "country": "United States"
             },
@@ -2285,6 +2553,8 @@
                 "name": "Richmond (RIC)",
                 "icao": "RIC",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,000,000",
                 "country": "United States"
             },
@@ -2302,6 +2572,8 @@
                 "name": "Taichung International (RMQ)",
                 "icao": "RMQ",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "2,800,000",
                 "country": "Taiwan"
             },
@@ -2319,6 +2591,8 @@
                 "name": "Rochester (ROC)",
                 "icao": "ROC",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "210,000",
                 "country": "United States"
             },
@@ -2336,6 +2610,8 @@
                 "name": "Rotterdam The Hague (RTM)",
                 "icao": "RTM",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "672,000",
                 "country": "Netherlands"
             },
@@ -2353,6 +2629,8 @@
                 "name": "San Diego (SAN)",
                 "icao": "SAN",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "3,315,000",
                 "country": "United States"
             },
@@ -2370,6 +2648,8 @@
                 "name": "San Antonio (SAT)",
                 "icao": "SAT",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,570,000",
                 "country": "United States"
             },
@@ -2387,6 +2667,8 @@
                 "name": "Savannah (SAV)",
                 "icao": "SAV",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "350,000",
                 "country": "United States"
             },
@@ -2404,6 +2686,8 @@
                 "name": "Santiago de Cuba (SCU)",
                 "icao": "SCU",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "445,000",
                 "country": "Cuba"
             },
@@ -2421,6 +2705,8 @@
                 "name": "Louisville (SDF)",
                 "icao": "SDF",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "645,000",
                 "country": "United States"
             },
@@ -2438,6 +2724,8 @@
                 "name": "Santo Domingo (SDQ)",
                 "icao": "SDQ",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "3,600,000",
                 "country": "Dominican Republic"
             },
@@ -2455,6 +2743,8 @@
                 "name": "Seattle (SEA)",
                 "icao": "SEA",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "3,613,000",
                 "country": "United States"
             },
@@ -2472,6 +2762,8 @@
                 "name": "San Francisco (SFO)",
                 "icao": "SFO",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "3,652,000",
                 "country": "United States"
             },
@@ -2489,6 +2781,8 @@
                 "name": "Sitka Rocky Gutierrez (SIT)",
                 "icao": "SIT",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "8,500",
                 "country": "United States"
             },
@@ -2506,6 +2800,8 @@
                 "name": "San Jose (SJC)",
                 "icao": "SJC",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,500,000",
                 "country": "United States"
             },
@@ -2523,6 +2819,8 @@
                 "name": "Salt Lake City (SLC)",
                 "icao": "SLC",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "1,266,000",
                 "country": "United States"
             },
@@ -2540,6 +2838,8 @@
                 "name": "Shannon Airport (SNN)",
                 "icao": "SNN",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "210,000",
                 "country": "Ireland"
             },
@@ -2557,6 +2857,8 @@
                 "name": "Santa Clara (SNU)",
                 "icao": "SNU",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "245,000",
                 "country": "Cuba"
             },
@@ -2574,6 +2876,8 @@
                 "name": "Sarasota (SRQ)",
                 "icao": "SRQ",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "200,000",
                 "country": "United States"
             },
@@ -2591,6 +2895,8 @@
                 "name": "Santiago de los Caballeros (STI)",
                 "icao": "STI",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,200,000",
                 "country": "Dominican Republic"
             },
@@ -2608,6 +2914,8 @@
                 "name": "St. Louis (STL)",
                 "icao": "STL",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "500,000",
                 "country": "United States"
             },
@@ -2625,6 +2933,8 @@
                 "name": "Seville (SVQ)",
                 "icao": "SVQ",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "700,000",
                 "country": "Spain"
             },
@@ -2642,6 +2952,8 @@
                 "name": "Princess Juliana Intl (SXM)",
                 "icao": "SXM",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "70,000",
                 "country": "France"
             },
@@ -2659,6 +2971,8 @@
                 "name": "Lajes (Terceira) (TER)",
                 "icao": "TER",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "56,000",
                 "country": "Portugal"
             },
@@ -2676,6 +2990,8 @@
                 "name": "Tenerife South (TFS)",
                 "icao": "TFS",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "950,000",
                 "country": "Spain"
             },
@@ -2693,6 +3009,8 @@
                 "name": "Toulouse-Blagnac (TLS)",
                 "icao": "TLS",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,153,000",
                 "country": "France"
             },
@@ -2710,6 +3028,8 @@
                 "name": "Tainan Airport (TNN)",
                 "icao": "TNN",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,858,000",
                 "country": "Taiwan"
             },
@@ -2727,6 +3047,8 @@
                 "name": "Tampa (TPA)",
                 "icao": "TPA",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "406,000",
                 "country": "United States"
             },
@@ -2744,6 +3066,8 @@
                 "name": "Taipei Taiwan Taoyuan International (TPE)",
                 "icao": "TPE",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "7,100,000",
                 "country": "Taiwan"
             },
@@ -2761,6 +3085,8 @@
                 "name": "Taipei Songshan (TSA)",
                 "icao": "TSA",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,600,000",
                 "country": "Taiwan"
             },
@@ -2778,6 +3104,8 @@
                 "name": "Tucson (TUS)",
                 "icao": "TUS",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "559,000",
                 "country": "United States"
             },
@@ -2795,6 +3123,8 @@
                 "name": "Narsarsuaq (UAK)",
                 "icao": "UAK",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "150",
                 "country": "Greenland"
             },
@@ -2812,6 +3142,8 @@
                 "name": "Valencia (VLC)",
                 "icao": "VLC",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "843,000",
                 "country": "Spain"
             },
@@ -2829,6 +3161,8 @@
                 "name": "Destin-Fort Walton (VPS)",
                 "icao": "VPS",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "308,000",
                 "country": "United States"
             },
@@ -2846,6 +3180,8 @@
                 "name": "Varadero (VRA)",
                 "icao": "VRA",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "30,000",
                 "country": "Cuba"
             },
@@ -2863,6 +3199,8 @@
                 "name": "Saguenay-Bagotville (YBG)",
                 "icao": "YBG",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "146,000",
                 "country": "Canada"
             },
@@ -2880,6 +3218,8 @@
                 "name": "Deer Lake (YDF)",
                 "icao": "YDF",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "5,000",
                 "country": "Canada"
             },
@@ -2897,6 +3237,8 @@
                 "name": "Edmonton (YEG)",
                 "icao": "YEG",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,600,000",
                 "country": "Canada"
             },
@@ -2914,6 +3256,8 @@
                 "name": "Iqaluit (YFB)",
                 "icao": "YFB",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "8,200",
                 "country": "Canada"
             },
@@ -2931,6 +3275,8 @@
                 "name": "Fredericton (YFC)",
                 "icao": "YFC",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "116,000",
                 "country": "Canada"
             },
@@ -2948,6 +3294,8 @@
                 "name": "Gasp\u00e9 (YGP)",
                 "icao": "YGP",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "15,000",
                 "country": "Canada"
             },
@@ -2965,6 +3313,8 @@
                 "name": "Magdalen Islands (YGR)",
                 "icao": "YGR",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "12,000",
                 "country": "Canada"
             },
@@ -2982,6 +3332,8 @@
                 "name": "Hamilton (YHM)",
                 "icao": "YHM",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "595,000",
                 "country": "Canada"
             },
@@ -2999,6 +3351,8 @@
                 "name": "Montr\u00e9al-Saint-Hubert (YHU)",
                 "icao": "YHU",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "350,000",
                 "country": "Canada"
             },
@@ -3016,6 +3370,8 @@
                 "name": "Halifax (YHX)",
                 "icao": "YHX",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "440,000",
                 "country": "Canada"
             },
@@ -3033,6 +3389,8 @@
                 "name": "Kamloops (YKA)",
                 "icao": "YKA",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "127,000",
                 "country": "Canada"
             },
@@ -3050,6 +3408,8 @@
                 "name": "Schefferville (YKL)",
                 "icao": "YKL",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "1,500",
                 "country": "Canada"
             },
@@ -3067,6 +3427,8 @@
                 "name": "Kelowna (YLW)",
                 "icao": "YLW",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "247,000",
                 "country": "Canada"
             },
@@ -3084,6 +3446,8 @@
                 "name": "Ottawa (YOW)",
                 "icao": "YOW",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "1,480,000",
                 "country": "Canada"
             },
@@ -3101,6 +3465,8 @@
                 "name": "Qu\u00e9bec City (YQB)",
                 "icao": "YQB",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "863,000",
                 "country": "Canada"
             },
@@ -3118,6 +3484,8 @@
                 "name": "Moncton (YQM)",
                 "icao": "YQM",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "175,000",
                 "country": "Canada"
             },
@@ -3135,6 +3503,8 @@
                 "name": "Comox (YQQ)",
                 "icao": "YQQ",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "81,000",
                 "country": "Canada"
             },
@@ -3152,6 +3522,8 @@
                 "name": "Regina (YQR)",
                 "icao": "YQR",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "269,000",
                 "country": "Canada"
             },
@@ -3169,6 +3541,8 @@
                 "name": "Thunder Bay (YQT)",
                 "icao": "YQT",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "133,000",
                 "country": "Canada"
             },
@@ -3186,6 +3560,8 @@
                 "name": "Gander (YQX)",
                 "icao": "YQX",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "11,900",
                 "country": "Canada"
             },
@@ -3203,6 +3579,8 @@
                 "name": "Toronto City Centre (YTZ)",
                 "icao": "YTZ",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "3,370,000",
                 "country": "Canada"
             },
@@ -3220,6 +3598,8 @@
                 "name": "Montr\u00e9al-Trudeau (YUL)",
                 "icao": "YUL",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "4,415,000",
                 "country": "Canada"
             },
@@ -3237,6 +3617,8 @@
                 "name": "Vancouver (YVR)",
                 "icao": "YVR",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "2,733,000",
                 "country": "Canada"
             },
@@ -3254,6 +3636,8 @@
                 "name": "Winnipeg (YWG)",
                 "icao": "YWG",
                 "class": 3,
+                "color": "Red",
+                "size": 14,
                 "pop": "865,000",
                 "country": "Canada"
             },
@@ -3271,6 +3655,8 @@
                 "name": "Wabush (YWK)",
                 "icao": "YWK",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "9,000",
                 "country": "Canada"
             },
@@ -3288,6 +3674,8 @@
                 "name": "Saskatoon (YXE)",
                 "icao": "YXE",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "362,000",
                 "country": "Canada"
             },
@@ -3305,6 +3693,8 @@
                 "name": "Prince George (YXS)",
                 "icao": "YXS",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "96,000",
                 "country": "Canada"
             },
@@ -3322,6 +3712,8 @@
                 "name": "Abbotsford (YXX)",
                 "icao": "YXX",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "170,000",
                 "country": "Canada"
             },
@@ -3339,6 +3731,8 @@
                 "name": "Whitehorse (YXY)",
                 "icao": "YXY",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "36,700",
                 "country": "Canada"
             },
@@ -3356,6 +3750,8 @@
                 "name": "Calgary (YYC)",
                 "icao": "YYC",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "1,709,000",
                 "country": "Canada"
             },
@@ -3373,6 +3769,8 @@
                 "name": "Charlottetown (YYG)",
                 "icao": "YYG",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "182,000",
                 "country": "Canada"
             },
@@ -3390,6 +3788,8 @@
                 "name": "Victoria (YYJ)",
                 "icao": "YYJ",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "409,000",
                 "country": "Canada"
             },
@@ -3407,6 +3807,8 @@
                 "name": "Goose Bay (YYR)",
                 "icao": "YYR",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "8,000",
                 "country": "Canada"
             },
@@ -3424,6 +3826,8 @@
                 "name": "St. John's (YYT)",
                 "icao": "YYT",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "218,000",
                 "country": "Canada"
             },
@@ -3441,6 +3845,8 @@
                 "name": "Toronto Pearson (YYZ)",
                 "icao": "YYZ",
                 "class": 5,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "7,100,000",
                 "country": "Canada"
             },
@@ -3458,6 +3864,8 @@
                 "name": "Yellowknife (YZF)",
                 "icao": "YZF",
                 "class": 2,
+                "color": "Orange",
+                "size": 10,
                 "pop": "22,400",
                 "country": "Canada"
             },
@@ -3475,6 +3883,8 @@
                 "name": "Sept-\u00celes (YZV)",
                 "icao": "YZV",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "25,000",
                 "country": "Canada"
             },
@@ -3492,6 +3902,8 @@
                 "name": "Zurich (ZRH)",
                 "icao": "ZRH",
                 "class": 4,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "1,466,000",
                 "country": "Switzerland"
             },
@@ -3509,6 +3921,8 @@
                 "name": "San Salvador (ZSA)",
                 "icao": "ZSA",
                 "class": 1,
+                "color": "RoyalBlue",
+                "size": 7,
                 "pop": "1,000",
                 "country": "Bahamas"
             },
