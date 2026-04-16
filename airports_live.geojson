@@ -178,7 +178,7 @@
                 "name": "Saman\u00e1 El Catey (AZS)",
                 "icao": "AZS",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "118,000",
                 "country": "Dominican Republic"
@@ -216,7 +216,7 @@
                 "name": "Bermuda (BDA)",
                 "icao": "BDA",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "64,500",
                 "country": "Bermuda"
@@ -292,7 +292,7 @@
                 "name": "Bastia-Poretta (BIA)",
                 "icao": "BIA",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "64,000",
                 "country": "France"
@@ -311,7 +311,7 @@
                 "name": "Bellingham Intl (BLI)",
                 "icao": "BLI",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "97,000",
                 "country": "United States"
@@ -330,7 +330,7 @@
                 "name": "Billund (BLL)",
                 "icao": "BLL",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "70,000",
                 "country": "Denmark"
@@ -463,7 +463,7 @@
                 "name": "Buffalo (BUF)",
                 "icao": "BUF",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "276,000",
                 "country": "United States"
@@ -520,7 +520,7 @@
                 "name": "Cap-Ha\u00eftien (CAP)",
                 "icao": "CAP",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "332,000",
                 "country": "Haiti"
@@ -539,7 +539,7 @@
                 "name": "Cayo Coco (CCC)",
                 "icao": "CCC",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "8,000",
                 "country": "Cuba"
@@ -577,7 +577,7 @@
                 "name": "Charleston (CHS)",
                 "icao": "CHS",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "160,000",
                 "country": "United States"
@@ -672,7 +672,7 @@
                 "name": "Camag\u00fcey (CMW)",
                 "icao": "CMW",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "330,000",
                 "country": "Cuba"
@@ -729,7 +729,7 @@
                 "name": "Cabo San Lucas (CSW)",
                 "icao": "CSW",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "106,000",
                 "country": "Mexico"
@@ -748,7 +748,7 @@
                 "name": "Chetumal (CTM)",
                 "icao": "CTM",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "258,000",
                 "country": "Mexico"
@@ -938,7 +938,7 @@
                 "name": "Durango MX (DGO)",
                 "icao": "DGO",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "773,000",
                 "country": "Mexico"
@@ -1033,7 +1033,7 @@
                 "name": "Key West (EYW)",
                 "icao": "EYW",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "25,000",
                 "country": "United States"
@@ -1052,7 +1052,7 @@
                 "name": "Fairbanks (FAI)",
                 "icao": "FAI",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "32,000",
                 "country": "United States"
@@ -1109,7 +1109,7 @@
                 "name": "Funchal (Madeira) (FNC)",
                 "icao": "FNC",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "105,000",
                 "country": "Portugal"
@@ -1128,7 +1128,7 @@
                 "name": "Pyongyang Sunan (FNJ)",
                 "icao": "FNJ",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "3,160,000",
                 "country": "North Korea"
@@ -1166,7 +1166,7 @@
                 "name": "Freeport (FPO)",
                 "icao": "FPO",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "27,000",
                 "country": "Bahamas"
@@ -1204,7 +1204,7 @@
                 "name": "Owen Roberts Intl (GCM)",
                 "icao": "GCM",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "77,000",
                 "country": "Cayman Islands"
@@ -1280,7 +1280,7 @@
                 "name": "Nuuk (GOH)",
                 "icao": "GOH",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "20,000",
                 "country": "Greenland"
@@ -1356,7 +1356,7 @@
                 "name": "Hermosillo (HMO)",
                 "icao": "HMO",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "958,000",
                 "country": "Mexico"
@@ -1432,7 +1432,7 @@
                 "name": "New Haven (HVN)",
                 "icao": "HVN",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "141,000",
                 "country": "United States"
@@ -1679,7 +1679,7 @@
                 "name": "Kona (KOA)",
                 "icao": "KOA",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "24,000",
                 "country": "United States"
@@ -1717,7 +1717,7 @@
                 "name": "La Paz (LAP)",
                 "icao": "LAP",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "310,000",
                 "country": "Mexico"
@@ -1774,7 +1774,7 @@
                 "name": "London City (LCY)",
                 "icao": "LCY",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "9,900,000",
                 "country": "United Kingdom"
@@ -1850,7 +1850,7 @@
                 "name": "Lihue (LIH)",
                 "icao": "LIH",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "8,100",
                 "country": "United States"
@@ -1907,7 +1907,7 @@
                 "name": "La Romana (LRM)",
                 "icao": "LRM",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "250,000",
                 "country": "Dominican Republic"
@@ -1926,7 +1926,7 @@
                 "name": "Loreto (LTO)",
                 "icao": "LTO",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "28,000",
                 "country": "Mexico"
@@ -2287,7 +2287,7 @@
                 "name": "Myrtle Beach (MYR)",
                 "icao": "MYR",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "71,000",
                 "country": "United States"
@@ -2306,7 +2306,7 @@
                 "name": "Mazatlan (MZT)",
                 "icao": "MZT",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "554,000",
                 "country": "Mexico"
@@ -2420,7 +2420,7 @@
                 "name": "Oaxaca (OAX)",
                 "icao": "OAX",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "735,000",
                 "country": "Mexico"
@@ -2591,7 +2591,7 @@
                 "name": "Port-au-Prince (PAP)",
                 "icao": "PAP",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "3,206,000",
                 "country": "Haiti"
@@ -2648,7 +2648,7 @@
                 "name": "Ponta Delgada (Azores) (PDL)",
                 "icao": "PDL",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "68,000",
                 "country": "Portugal"
@@ -2724,7 +2724,7 @@
                 "name": "St. Pete-Clearwater (PIE)",
                 "icao": "PIE",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "271,000",
                 "country": "United States"
@@ -2895,7 +2895,7 @@
                 "name": "Providence (PVD)",
                 "icao": "PVD",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "196,000",
                 "country": "United States"
@@ -2933,7 +2933,7 @@
                 "name": "Portland (Maine) (PWM)",
                 "icao": "PWM",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "68,000",
                 "country": "United States"
@@ -3028,7 +3028,7 @@
                 "name": "Rochester (ROC)",
                 "icao": "ROC",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "210,000",
                 "country": "United States"
@@ -3104,7 +3104,7 @@
                 "name": "Savannah (SAV)",
                 "icao": "SAV",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "350,000",
                 "country": "United States"
@@ -3408,7 +3408,7 @@
                 "name": "Princess Juliana Intl (SXM)",
                 "icao": "SXM",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "70,000",
                 "country": "France"
@@ -3427,7 +3427,7 @@
                 "name": "Tampico (TAM)",
                 "icao": "TAM",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "1,093,000",
                 "country": "Mexico"
@@ -3446,7 +3446,7 @@
                 "name": "Tapachula (TAP)",
                 "icao": "TAP",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "432,000",
                 "country": "Mexico"
@@ -3465,7 +3465,7 @@
                 "name": "Lajes (Terceira) (TER)",
                 "icao": "TER",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "56,000",
                 "country": "Portugal"
@@ -3503,7 +3503,7 @@
                 "name": "Tuxtla Gutierrez (TGZ)",
                 "icao": "TGZ",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "942,000",
                 "country": "Mexico"
@@ -3541,7 +3541,7 @@
                 "name": "Toluca (TLC)",
                 "icao": "TLC",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "2,762,000",
                 "country": "Mexico"
@@ -3674,7 +3674,7 @@
                 "name": "Tucson (TUS)",
                 "icao": "TUS",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "559,000",
                 "country": "United States"
@@ -3750,7 +3750,7 @@
                 "name": "Destin-Fort Walton (VPS)",
                 "icao": "VPS",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "308,000",
                 "country": "United States"
@@ -3788,7 +3788,7 @@
                 "name": "Villahermosa (VSA)",
                 "icao": "VSA",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "986,000",
                 "country": "Mexico"
@@ -3807,7 +3807,7 @@
                 "name": "Saguenay-Bagotville (YBG)",
                 "icao": "YBG",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "146,000",
                 "country": "Canada"
@@ -3826,7 +3826,7 @@
                 "name": "Deer Lake (YDF)",
                 "icao": "YDF",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "5,000",
                 "country": "Canada"
@@ -3883,7 +3883,7 @@
                 "name": "Fredericton (YFC)",
                 "icao": "YFC",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "116,000",
                 "country": "Canada"
@@ -3940,7 +3940,7 @@
                 "name": "Hamilton (YHM)",
                 "icao": "YHM",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "595,000",
                 "country": "Canada"
@@ -3959,7 +3959,7 @@
                 "name": "Montr\u00e9al-Saint-Hubert (YHU)",
                 "icao": "YHU",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "350,000",
                 "country": "Canada"
@@ -3997,7 +3997,7 @@
                 "name": "Kamloops (YKA)",
                 "icao": "YKA",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "127,000",
                 "country": "Canada"
@@ -4035,7 +4035,7 @@
                 "name": "Kelowna (YLW)",
                 "icao": "YLW",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "247,000",
                 "country": "Canada"
@@ -4092,7 +4092,7 @@
                 "name": "Moncton (YQM)",
                 "icao": "YQM",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "175,000",
                 "country": "Canada"
@@ -4111,7 +4111,7 @@
                 "name": "Comox (YQQ)",
                 "icao": "YQQ",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "81,000",
                 "country": "Canada"
@@ -4130,7 +4130,7 @@
                 "name": "Regina (YQR)",
                 "icao": "YQR",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "269,000",
                 "country": "Canada"
@@ -4149,7 +4149,7 @@
                 "name": "Thunder Bay (YQT)",
                 "icao": "YQT",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "133,000",
                 "country": "Canada"
@@ -4187,7 +4187,7 @@
                 "name": "Toronto City Centre (YTZ)",
                 "icao": "YTZ",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "3,370,000",
                 "country": "Canada"
@@ -4282,7 +4282,7 @@
                 "name": "Saskatoon (YXE)",
                 "icao": "YXE",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "362,000",
                 "country": "Canada"
@@ -4301,7 +4301,7 @@
                 "name": "Prince George (YXS)",
                 "icao": "YXS",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "96,000",
                 "country": "Canada"
@@ -4320,7 +4320,7 @@
                 "name": "Abbotsford (YXX)",
                 "icao": "YXX",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "170,000",
                 "country": "Canada"
@@ -4339,7 +4339,7 @@
                 "name": "Whitehorse (YXY)",
                 "icao": "YXY",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "36,700",
                 "country": "Canada"
@@ -4377,7 +4377,7 @@
                 "name": "Charlottetown (YYG)",
                 "icao": "YYG",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "182,000",
                 "country": "Canada"
@@ -4396,7 +4396,7 @@
                 "name": "Victoria (YYJ)",
                 "icao": "YYJ",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "409,000",
                 "country": "Canada"
@@ -4415,7 +4415,7 @@
                 "name": "Goose Bay (YYR)",
                 "icao": "YYR",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "8,000",
                 "country": "Canada"
@@ -4434,7 +4434,7 @@
                 "name": "St. John's (YYT)",
                 "icao": "YYT",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "218,000",
                 "country": "Canada"
@@ -4472,7 +4472,7 @@
                 "name": "Yellowknife (YZF)",
                 "icao": "YZF",
                 "class": 2,
-                "color": "DodgerBlue",
+                "color": "DeepSkyBlue",
                 "size": 8,
                 "pop": "22,400",
                 "country": "Canada"
