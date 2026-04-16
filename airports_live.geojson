@@ -45,7 +45,7 @@
                 "name": "Malaga-Costa del Sol (AGP)",
                 "icao": "AGP",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "1,070,000",
                 "country": "Spain"
@@ -83,7 +83,7 @@
                 "name": "Amsterdam Schiphol (AMS)",
                 "icao": "AMS",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "2,670,000",
                 "country": "Netherlands"
@@ -121,7 +121,7 @@
                 "name": "Atlanta (ATL)",
                 "icao": "ATL",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "6,300,000",
                 "country": "United States"
@@ -140,7 +140,7 @@
                 "name": "Austin (AUS)",
                 "icao": "AUS",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "2,500,000",
                 "country": "United States"
@@ -178,7 +178,7 @@
                 "name": "Barcelona-El Prat (BCN)",
                 "icao": "BCN",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "5,100,000",
                 "country": "Spain"
@@ -330,7 +330,7 @@
                 "name": "Nashville (BNA)",
                 "icao": "BNA",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "2,140,000",
                 "country": "United States"
@@ -368,7 +368,7 @@
                 "name": "Boston (BOS)",
                 "icao": "BOS",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "5,050,000",
                 "country": "United States"
@@ -406,7 +406,7 @@
                 "name": "Brussels-Zaventem (BRU)",
                 "icao": "BRU",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "2,150,000",
                 "country": "Belgium"
@@ -482,7 +482,7 @@
                 "name": "Baltimore (BWI)",
                 "icao": "BWI",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "860,000",
                 "country": "United States"
@@ -539,7 +539,7 @@
                 "name": "Paris CDG (CDG)",
                 "icao": "CDG",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "13,400,000",
                 "country": "France"
@@ -615,7 +615,7 @@
                 "name": "Charlotte (CLT)",
                 "icao": "CLT",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "2,407,000",
                 "country": "United States"
@@ -653,7 +653,7 @@
                 "name": "Copenhagen Kastrup (CPH)",
                 "icao": "CPH",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "2,050,000",
                 "country": "Denmark"
@@ -729,7 +729,7 @@
                 "name": "Washington Reagan (DCA)",
                 "icao": "DCA",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "6,304,000",
                 "country": "United States"
@@ -748,7 +748,7 @@
                 "name": "Denver (DEN)",
                 "icao": "DEN",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "3,025,000",
                 "country": "United States"
@@ -767,7 +767,7 @@
                 "name": "Dallas-Fort Worth (DFW)",
                 "icao": "DFW",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "8,580,000",
                 "country": "United States"
@@ -786,7 +786,7 @@
                 "name": "Detroit (DTW)",
                 "icao": "DTW",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "3,837,000",
                 "country": "United States"
@@ -805,7 +805,7 @@
                 "name": "Dublin (DUB)",
                 "icao": "DUB",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "1,500,000",
                 "country": "Ireland"
@@ -824,7 +824,7 @@
                 "name": "Edinburgh (EDI)",
                 "icao": "EDI",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "820,000",
                 "country": "United Kingdom"
@@ -843,7 +843,7 @@
                 "name": "Newark (EWR)",
                 "icao": "EWR",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "6,100,000",
                 "country": "United States"
@@ -976,7 +976,7 @@
                 "name": "Fort Lauderdale (FLL)",
                 "icao": "FLL",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "709,000",
                 "country": "United States"
@@ -1071,7 +1071,7 @@
                 "name": "Seoul Gimpo (GMP)",
                 "icao": "GMP",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "9,000,000",
                 "country": "South Korea"
@@ -1109,7 +1109,7 @@
                 "name": "Geneva (GVA)",
                 "icao": "GVA",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "650,000",
                 "country": "Switzerland"
@@ -1147,7 +1147,7 @@
                 "name": "Hong Kong (HKG)",
                 "icao": "HKG",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "7,500,000",
                 "country": "Hong Kong"
@@ -1166,7 +1166,7 @@
                 "name": "Honolulu (HNL)",
                 "icao": "HNL",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "350,000",
                 "country": "United States"
@@ -1223,7 +1223,7 @@
                 "name": "Washington-Dulles (IAD)",
                 "icao": "IAD",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "6,304,000",
                 "country": "United States"
@@ -1242,7 +1242,7 @@
                 "name": "Houston (IAH)",
                 "icao": "IAH",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "2,435,000",
                 "country": "United States"
@@ -1280,7 +1280,7 @@
                 "name": "Seoul Incheon (ICN)",
                 "icao": "ICN",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "26,000,000",
                 "country": "South Korea"
@@ -1337,7 +1337,7 @@
                 "name": "New York JFK (JFK)",
                 "icao": "JFK",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "8,467,000",
                 "country": "United States"
@@ -1413,7 +1413,7 @@
                 "name": "Kaohsiung International (KHH)",
                 "icao": "KHH",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "2,723,000",
                 "country": "Taiwan"
@@ -1489,7 +1489,7 @@
                 "name": "Las Vegas (LAS)",
                 "icao": "LAS",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "3,041,000",
                 "country": "United States"
@@ -1508,7 +1508,7 @@
                 "name": "Los Angeles (LAX)",
                 "icao": "LAX",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "9,700,000",
                 "country": "United States"
@@ -1565,7 +1565,7 @@
                 "name": "London Gatwick (LGW)",
                 "icao": "LGW",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "6,000,000",
                 "country": "United Kingdom"
@@ -1584,7 +1584,7 @@
                 "name": "London Heathrow (LHR)",
                 "icao": "LHR",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "9,900,000",
                 "country": "United Kingdom"
@@ -1622,7 +1622,7 @@
                 "name": "Lisbon (LIS)",
                 "icao": "LIS",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "3,041,000",
                 "country": "Portugal"
@@ -1717,7 +1717,7 @@
                 "name": "Madrid-Barajas (MAD)",
                 "icao": "MAD",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "6,834,000",
                 "country": "Spain"
@@ -1755,7 +1755,7 @@
                 "name": "Manchester (MAN)",
                 "icao": "MAN",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "2,853,000",
                 "country": "United Kingdom"
@@ -1812,7 +1812,7 @@
                 "name": "Orlando (MCO)",
                 "icao": "MCO",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "2,760,000",
                 "country": "United States"
@@ -1831,7 +1831,7 @@
                 "name": "Chicago Midway (MDW)",
                 "icao": "MDW",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "2,600,000",
                 "country": "United States"
@@ -1888,7 +1888,7 @@
                 "name": "Miami (MIA)",
                 "icao": "MIA",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "6,429,000",
                 "country": "United States"
@@ -1926,7 +1926,7 @@
                 "name": "Minneapolis (MSP)",
                 "icao": "MSP",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "3,800,000",
                 "country": "United States"
@@ -2135,7 +2135,7 @@
                 "name": "Chicago O'Hare (ORD)",
                 "icao": "ORD",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "9,230,000",
                 "country": "United States"
@@ -2192,7 +2192,7 @@
                 "name": "Paris-Orly (ORY)",
                 "icao": "ORY",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "6,000,000",
                 "country": "France"
@@ -2268,7 +2268,7 @@
                 "name": "Portland (PDX)",
                 "icao": "PDX",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "2,540,000",
                 "country": "United States"
@@ -2287,7 +2287,7 @@
                 "name": "Philadelphia (PHL)",
                 "icao": "PHL",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "6,290,000",
                 "country": "United States"
@@ -2306,7 +2306,7 @@
                 "name": "Phoenix (PHX)",
                 "icao": "PHX",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "4,887,000",
                 "country": "United States"
@@ -2477,7 +2477,7 @@
                 "name": "Busan Gimhae (PUS)",
                 "icao": "PUS",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "3,400,000",
                 "country": "South Korea"
@@ -2534,7 +2534,7 @@
                 "name": "Raleigh-Durham (RDU)",
                 "icao": "RDU",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "1,688,000",
                 "country": "United States"
@@ -2629,7 +2629,7 @@
                 "name": "San Diego (SAN)",
                 "icao": "SAN",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "3,315,000",
                 "country": "United States"
@@ -2743,7 +2743,7 @@
                 "name": "Seattle (SEA)",
                 "icao": "SEA",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "3,613,000",
                 "country": "United States"
@@ -2762,7 +2762,7 @@
                 "name": "San Francisco (SFO)",
                 "icao": "SFO",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "3,652,000",
                 "country": "United States"
@@ -2819,7 +2819,7 @@
                 "name": "Salt Lake City (SLC)",
                 "icao": "SLC",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "1,266,000",
                 "country": "United States"
@@ -3066,7 +3066,7 @@
                 "name": "Taipei Taiwan Taoyuan International (TPE)",
                 "icao": "TPE",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "7,100,000",
                 "country": "Taiwan"
@@ -3085,7 +3085,7 @@
                 "name": "Taipei Songshan (TSA)",
                 "icao": "TSA",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "2,600,000",
                 "country": "Taiwan"
@@ -3598,7 +3598,7 @@
                 "name": "Montr\u00e9al-Trudeau (YUL)",
                 "icao": "YUL",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "4,415,000",
                 "country": "Canada"
@@ -3617,7 +3617,7 @@
                 "name": "Vancouver (YVR)",
                 "icao": "YVR",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "2,733,000",
                 "country": "Canada"
@@ -3750,7 +3750,7 @@
                 "name": "Calgary (YYC)",
                 "icao": "YYC",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "1,709,000",
                 "country": "Canada"
@@ -3845,7 +3845,7 @@
                 "name": "Toronto Pearson (YYZ)",
                 "icao": "YYZ",
                 "class": 5,
-                "color": "ForestGreen",
+                "color": "lime",
                 "size": 16,
                 "pop": "7,100,000",
                 "country": "Canada"
@@ -3902,7 +3902,7 @@
                 "name": "Zurich (ZRH)",
                 "icao": "ZRH",
                 "class": 4,
-                "color": "Navy",
+                "color": "DarkBlue",
                 "size": 13,
                 "pop": "1,466,000",
                 "country": "Switzerland"
