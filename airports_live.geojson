@@ -3806,9 +3806,9 @@
             "properties": {
                 "name": "Saguenay-Bagotville (YBG)",
                 "icao": "YBG",
-                "class": 2,
-                "color": "DeepSkyBlue",
-                "size": 8,
+                "class": 1,
+                "color": "SkyBlue",
+                "size": 6,
                 "pop": "146,000",
                 "country": "Canada"
             },
