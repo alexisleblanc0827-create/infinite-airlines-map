@@ -1,0 +1,3524 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Albuquerque (ABQ)",
+                "icao": "ABQ",
+                "class": 3,
+                "pop": "715,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6092,
+                    35.0402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Akureyri (AEY)",
+                "icao": "AEY",
+                "class": 1,
+                "pop": "31,000",
+                "country": "Iceland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0727,
+                    65.66
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Malaga-Costa del Sol (AGP)",
+                "icao": "AGP",
+                "class": 4,
+                "pop": "1,070,000",
+                "country": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4991,
+                    36.6749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alicante-Elche (ALC)",
+                "icao": "ALC",
+                "class": 3,
+                "pop": "800,000",
+                "country": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5582,
+                    38.2822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amsterdam Schiphol (AMS)",
+                "icao": "AMS",
+                "class": 5,
+                "pop": "2,670,000",
+                "country": "Netherlands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7683,
+                    52.3105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anchorage (ANC)",
+                "icao": "ANC",
+                "class": 3,
+                "pop": "395,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.996,
+                    61.1743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Atlanta (ATL)",
+                "icao": "ATL",
+                "class": 5,
+                "pop": "6,300,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4277,
+                    33.6407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Austin (AUS)",
+                "icao": "AUS",
+                "class": 4,
+                "pop": "2,500,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6699,
+                    30.1945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saman\u00e1 El Catey (AZS)",
+                "icao": "AZS",
+                "class": 2,
+                "pop": "118,000",
+                "country": "Dominican Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.74,
+                    19.27
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barcelona-El Prat (BCN)",
+                "icao": "BCN",
+                "class": 5,
+                "pop": "5,100,000",
+                "country": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0833,
+                    41.2974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bermuda (BDA)",
+                "icao": "BDA",
+                "class": 2,
+                "pop": "64,500",
+                "country": "Bermuda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.6787,
+                    32.364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hartford (BDL)",
+                "icao": "BDL",
+                "class": 3,
+                "pop": "500,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.6832,
+                    41.9389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Belfast International (BFS)",
+                "icao": "BFS",
+                "class": 3,
+                "pop": "656,000",
+                "country": "United Kingdom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2158,
+                    54.6575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Birmingham (BHX)",
+                "icao": "BHX",
+                "class": 3,
+                "pop": "4,330,000",
+                "country": "United Kingdom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7481,
+                    52.454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bastia-Poretta (BIA)",
+                "icao": "BIA",
+                "class": 2,
+                "pop": "64,000",
+                "country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4836,
+                    42.5528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bellingham Intl (BLI)",
+                "icao": "BLI",
+                "class": 2,
+                "pop": "97,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5375,
+                    48.7927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Billund (BLL)",
+                "icao": "BLL",
+                "class": 2,
+                "pop": "70,000",
+                "country": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1518,
+                    55.7403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nashville (BNA)",
+                "icao": "BNA",
+                "class": 4,
+                "pop": "2,140,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.6782,
+                    36.1245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bordeaux-M\u00e9rignac (BOD)",
+                "icao": "BOD",
+                "class": 3,
+                "pop": "1,026,000",
+                "country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7156,
+                    44.8283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boston (BOS)",
+                "icao": "BOS",
+                "class": 5,
+                "pop": "5,050,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0096,
+                    42.3656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bristol Airport (BRS)",
+                "icao": "BRS",
+                "class": 3,
+                "pop": "729,000",
+                "country": "United Kingdom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7191,
+                    51.3827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brussels-Zaventem (BRU)",
+                "icao": "BRU",
+                "class": 4,
+                "pop": "2,150,000",
+                "country": "Belgium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4844,
+                    50.901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Basel-Mulhouse (BSL)",
+                "icao": "BSL",
+                "class": 3,
+                "pop": "583,000",
+                "country": "Switzerland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5299,
+                    47.5896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Buffalo (BUF)",
+                "icao": "BUF",
+                "class": 2,
+                "pop": "276,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7322,
+                    42.9405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hollywood Burbank Airport (BUR)",
+                "icao": "BUR",
+                "class": 3,
+                "pop": "280,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.359,
+                    34.2007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Baltimore (BWI)",
+                "icao": "BWI",
+                "class": 4,
+                "pop": "860,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6683,
+                    39.1754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cap-Ha\u00eftien (CAP)",
+                "icao": "CAP",
+                "class": 2,
+                "pop": "332,000",
+                "country": "Haiti"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.1947,
+                    19.7331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cayo Coco (CCC)",
+                "icao": "CCC",
+                "class": 2,
+                "pop": "8,000",
+                "country": "Cuba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.328,
+                    22.461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paris CDG (CDG)",
+                "icao": "CDG",
+                "class": 5,
+                "pop": "13,400,000",
+                "country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5479,
+                    49.0097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Charleston (CHS)",
+                "icao": "CHS",
+                "class": 2,
+                "pop": "160,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0405,
+                    32.8986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jeju (CJU)",
+                "icao": "CJU",
+                "class": 3,
+                "pop": "680,000",
+                "country": "South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.493,
+                    33.5113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cleveland (CLE)",
+                "icao": "CLE",
+                "class": 3,
+                "pop": "380,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.8494,
+                    41.4108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Charlotte (CLT)",
+                "icao": "CLT",
+                "class": 4,
+                "pop": "2,407,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9431,
+                    35.214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Camag\u00fcey (CMW)",
+                "icao": "CMW",
+                "class": 2,
+                "pop": "330,000",
+                "country": "Cuba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.848,
+                    21.42
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Copenhagen Kastrup (CPH)",
+                "icao": "CPH",
+                "class": 5,
+                "pop": "2,050,000",
+                "country": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.656,
+                    55.6179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brussels South Charleroi (CRL)",
+                "icao": "CRL",
+                "class": 3,
+                "pop": "425,000",
+                "country": "Belgium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4538,
+                    50.4592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cincinnati (CVG)",
+                "icao": "CVG",
+                "class": 3,
+                "pop": "1,000,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.6625,
+                    39.0461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Daytona Beach International (DAB)",
+                "icao": "DAB",
+                "class": 3,
+                "pop": "690,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0581,
+                    29.1799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Washington Reagan (DCA)",
+                "icao": "DCA",
+                "class": 4,
+                "pop": "6,304,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0402,
+                    38.8512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Denver (DEN)",
+                "icao": "DEN",
+                "class": 4,
+                "pop": "3,025,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.6737,
+                    39.8561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dallas-Fort Worth (DFW)",
+                "icao": "DFW",
+                "class": 5,
+                "pop": "8,580,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0403,
+                    32.8998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Detroit (DTW)",
+                "icao": "DTW",
+                "class": 4,
+                "pop": "3,837,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.3533,
+                    42.2124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dublin (DUB)",
+                "icao": "DUB",
+                "class": 5,
+                "pop": "1,500,000",
+                "country": "Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2499,
+                    53.4264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Edinburgh (EDI)",
+                "icao": "EDI",
+                "class": 4,
+                "pop": "820,000",
+                "country": "United Kingdom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3615,
+                    55.9508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Newark (EWR)",
+                "icao": "EWR",
+                "class": 5,
+                "pop": "6,100,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1745,
+                    40.6895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Key West (EYW)",
+                "icao": "EYW",
+                "class": 2,
+                "pop": "25,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.759,
+                    24.555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fairbanks (FAI)",
+                "icao": "FAI",
+                "class": 2,
+                "pop": "32,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.856,
+                    64.8139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Faro (FAO)",
+                "icao": "FAO",
+                "class": 3,
+                "pop": "71,000",
+                "country": "Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9697,
+                    37.0176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fort-de-France (FDF)",
+                "icao": "FDF",
+                "class": 3,
+                "pop": "337,000",
+                "country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.0032,
+                    14.591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Funchal (Madeira) (FNC)",
+                "icao": "FNC",
+                "class": 2,
+                "pop": "105,000",
+                "country": "Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.7744,
+                    32.6978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pyongyang Sunan (FNJ)",
+                "icao": "FNJ",
+                "class": 2,
+                "pop": "3,160,000",
+                "country": "North Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.67,
+                    39.1326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fort Lauderdale (FLL)",
+                "icao": "FLL",
+                "class": 4,
+                "pop": "709,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1527,
+                    26.0725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Freeport (FPO)",
+                "icao": "FPO",
+                "class": 2,
+                "pop": "27,000",
+                "country": "Bahamas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6956,
+                    26.5587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint Pierre (FSP)",
+                "icao": "FSP",
+                "class": 1,
+                "pop": "6,000",
+                "country": "Saint Pierre and Miquelon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.1719,
+                    46.7627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Owen Roberts Intl (GCM)",
+                "icao": "GCM",
+                "class": 2,
+                "pop": "77,000",
+                "country": "Cayman Islands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3592,
+                    19.2925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Glasgow (GLA)",
+                "icao": "GLA",
+                "class": 3,
+                "pop": "635,000",
+                "country": "United Kingdom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4331,
+                    55.8711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seoul Gimpo (GMP)",
+                "icao": "GMP",
+                "class": 4,
+                "pop": "9,000,000",
+                "country": "South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.791,
+                    37.5583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nuuk (GOH)",
+                "icao": "GOH",
+                "class": 2,
+                "pop": "20,000",
+                "country": "Greenland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.6781,
+                    64.1909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Geneva (GVA)",
+                "icao": "GVA",
+                "class": 5,
+                "pop": "650,000",
+                "country": "Switzerland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1089,
+                    46.237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Havana (HAV)",
+                "icao": "HAV",
+                "class": 3,
+                "pop": "2,160,000",
+                "country": "Cuba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.409,
+                    22.989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hong Kong (HKG)",
+                "icao": "HKG",
+                "class": 5,
+                "pop": "7,500,000",
+                "country": "Hong Kong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.918,
+                    22.308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Honolulu (HNL)",
+                "icao": "HNL",
+                "class": 4,
+                "pop": "350,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.922,
+                    21.3186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Holgu\u00edn (HOG)",
+                "icao": "HOG",
+                "class": 3,
+                "pop": "398,000",
+                "country": "Cuba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.315,
+                    20.785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Haven (HVN)",
+                "icao": "HVN",
+                "class": 2,
+                "pop": "141,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.8868,
+                    41.2638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Washington-Dulles (IAD)",
+                "icao": "IAD",
+                "class": 5,
+                "pop": "6,304,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4558,
+                    38.9445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Houston (IAH)",
+                "icao": "IAH",
+                "class": 4,
+                "pop": "2,435,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3368,
+                    29.9902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ibiza (IBZ)",
+                "icao": "IBZ",
+                "class": 3,
+                "pop": "162,000",
+                "country": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3731,
+                    38.8728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seoul Incheon (ICN)",
+                "icao": "ICN",
+                "class": 5,
+                "pop": "26,000,000",
+                "country": "South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.44,
+                    37.4602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Indianapolis (IND)",
+                "icao": "IND",
+                "class": 3,
+                "pop": "893,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.2941,
+                    39.7173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jacksonville (JAX)",
+                "icao": "JAX",
+                "class": 3,
+                "pop": "911,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6879,
+                    30.4941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New York JFK (JFK)",
+                "icao": "JFK",
+                "class": 5,
+                "pop": "8,467,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7781,
+                    40.6413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Qaqortoq (JJU)",
+                "icao": "JJU",
+                "class": 1,
+                "pop": "3,200",
+                "country": "Greenland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.0333,
+                    60.7167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Juneau International (JNU)",
+                "icao": "JNU",
+                "class": 1,
+                "pop": "32,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -134.5764,
+                    58.355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Keflav\u00edk (KEF)",
+                "icao": "KEF",
+                "class": 3,
+                "pop": "35,000",
+                "country": "Iceland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.6056,
+                    63.985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kaohsiung International (KHH)",
+                "icao": "KHH",
+                "class": 4,
+                "pop": "2,723,000",
+                "country": "Taiwan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35,
+                    22.5771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kingston Norman Manley (KIN)",
+                "icao": "KIN",
+                "class": 3,
+                "pop": "608,000",
+                "country": "Jamaica"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.7875,
+                    17.9357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kona (KOA)",
+                "icao": "KOA",
+                "class": 2,
+                "pop": "24,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -156.0456,
+                    19.7388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ketchikan International (KTN)",
+                "icao": "KTN",
+                "class": 1,
+                "pop": "14,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -131.714,
+                    55.3557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Las Vegas (LAS)",
+                "icao": "LAS",
+                "class": 4,
+                "pop": "3,041,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.1537,
+                    36.084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Los Angeles (LAX)",
+                "icao": "LAX",
+                "class": 5,
+                "pop": "9,700,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4085,
+                    33.9416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "London City (LCY)",
+                "icao": "LCY",
+                "class": 2,
+                "pop": "9,900,000",
+                "country": "United Kingdom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0553,
+                    51.5053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LaGuardia (LGA)",
+                "icao": "LGA",
+                "class": 3,
+                "pop": "2,000,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.874,
+                    40.7769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "London Gatwick (LGW)",
+                "icao": "LGW",
+                "class": 4,
+                "pop": "6,000,000",
+                "country": "United Kingdom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1903,
+                    51.1481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "London Heathrow (LHR)",
+                "icao": "LHR",
+                "class": 5,
+                "pop": "9,900,000",
+                "country": "United Kingdom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4543,
+                    51.47
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lihue (LIH)",
+                "icao": "LIH",
+                "class": 2,
+                "pop": "8,100",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -159.339,
+                    21.976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lisbon (LIS)",
+                "icao": "LIS",
+                "class": 4,
+                "pop": "3,041,000",
+                "country": "Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1342,
+                    38.7742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gran Canaria (LPA)",
+                "icao": "LPA",
+                "class": 3,
+                "pop": "860,000",
+                "country": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.3866,
+                    27.9319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Romana (LRM)",
+                "icao": "LRM",
+                "class": 2,
+                "pop": "250,000",
+                "country": "Dominican Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.9119,
+                    18.4506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Luxembourg-Findel (LUX)",
+                "icao": "LUX",
+                "class": 3,
+                "pop": "687,000",
+                "country": "Luxembourg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2044,
+                    49.6233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lyon-Saint Exup\u00e9ry (LYS)",
+                "icao": "LYS",
+                "class": 3,
+                "pop": "1,800,000",
+                "country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0811,
+                    45.7256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Madrid-Barajas (MAD)",
+                "icao": "MAD",
+                "class": 5,
+                "pop": "6,834,000",
+                "country": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5626,
+                    40.4719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Menorca (MAH)",
+                "icao": "MAH",
+                "class": 3,
+                "pop": "98,000",
+                "country": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2186,
+                    39.8626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Manchester (MAN)",
+                "icao": "MAN",
+                "class": 4,
+                "pop": "2,853,000",
+                "country": "United Kingdom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.275,
+                    53.3537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montego Bay (MBJ)",
+                "icao": "MBJ",
+                "class": 3,
+                "pop": "124,000",
+                "country": "Jamaica"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.9133,
+                    18.5037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kansas City (MCI)",
+                "icao": "MCI",
+                "class": 3,
+                "pop": "1,300,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.7139,
+                    39.2976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orlando (MCO)",
+                "icao": "MCO",
+                "class": 4,
+                "pop": "2,760,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3081,
+                    28.4312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chicago Midway (MDW)",
+                "icao": "MDW",
+                "class": 4,
+                "pop": "2,600,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7522,
+                    41.786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Memphis (MEM)",
+                "icao": "MEM",
+                "class": 3,
+                "pop": "630,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.9767,
+                    35.0424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Macau (MFM)",
+                "icao": "MFM",
+                "class": 3,
+                "pop": "715,000",
+                "country": "Macau"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.591,
+                    22.1495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miami (MIA)",
+                "icao": "MIA",
+                "class": 5,
+                "pop": "6,429,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.287,
+                    25.7959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marseille Provence (MRS)",
+                "icao": "MRS",
+                "class": 3,
+                "pop": "1,654,000",
+                "country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.215,
+                    43.4367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Minneapolis (MSP)",
+                "icao": "MSP",
+                "class": 4,
+                "pop": "3,800,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2223,
+                    44.8848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Orleans (MSY)",
+                "icao": "MSY",
+                "class": 3,
+                "pop": "970,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.2592,
+                    29.9911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Myrtle Beach (MYR)",
+                "icao": "MYR",
+                "class": 2,
+                "pop": "71,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9283,
+                    33.6797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nassau (NAS)",
+                "icao": "NAS",
+                "class": 3,
+                "pop": "328,000",
+                "country": "Bahamas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4638,
+                    25.0389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nice C\u00f4te d'Azur (NCE)",
+                "icao": "NCE",
+                "class": 3,
+                "pop": "960,000",
+                "country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.215,
+                    43.6653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nantes Atlantique (NTE)",
+                "icao": "NTE",
+                "class": 3,
+                "pop": "716,000",
+                "country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6108,
+                    47.1531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oakland (OAK)",
+                "icao": "OAK",
+                "class": 3,
+                "pop": "1,500,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2208,
+                    37.7214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kahului (OGG)",
+                "icao": "OGG",
+                "class": 3,
+                "pop": "27,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -156.4305,
+                    20.8986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Omaha (OMA)",
+                "icao": "OMA",
+                "class": 3,
+                "pop": "958,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8942,
+                    41.3025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ontario International (ONT)",
+                "icao": "ONT",
+                "class": 3,
+                "pop": "4,600,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.6012,
+                    34.056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Porto (OPO)",
+                "icao": "OPO",
+                "class": 3,
+                "pop": "1,330,000",
+                "country": "Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6786,
+                    41.2421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chicago O'Hare (ORD)",
+                "icao": "ORD",
+                "class": 5,
+                "pop": "9,230,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.9073,
+                    41.9742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Norfolk (ORF)",
+                "icao": "ORF",
+                "class": 3,
+                "pop": "896,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2012,
+                    36.8946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cork Airport (ORK)",
+                "icao": "ORK",
+                "class": 3,
+                "pop": "590,000",
+                "country": "Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4911,
+                    51.8413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paris-Orly (ORY)",
+                "icao": "ORY",
+                "class": 4,
+                "pop": "6,000,000",
+                "country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3652,
+                    48.7262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Port-au-Prince (PAP)",
+                "icao": "PAP",
+                "class": 2,
+                "pop": "3,206,000",
+                "country": "Haiti"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2925,
+                    18.5796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "West Palm Beach (PBI)",
+                "icao": "PBI",
+                "class": 3,
+                "pop": "150,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0956,
+                    26.6832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ponta Delgada (Azores) (PDL)",
+                "icao": "PDL",
+                "class": 2,
+                "pop": "68,000",
+                "country": "Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.6979,
+                    37.7412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Portland (PDX)",
+                "icao": "PDX",
+                "class": 4,
+                "pop": "2,540,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5951,
+                    45.5898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Philadelphia (PHL)",
+                "icao": "PHL",
+                "class": 4,
+                "pop": "6,290,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2437,
+                    39.8729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phoenix (PHX)",
+                "icao": "PHX",
+                "class": 4,
+                "pop": "4,887,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0081,
+                    33.4342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Pete-Clearwater (PIE)",
+                "icao": "PIE",
+                "class": 2,
+                "pop": "271,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.6874,
+                    27.9102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pittsburgh (PIT)",
+                "icao": "PIT",
+                "class": 3,
+                "pop": "1,727,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2328,
+                    40.4914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Providenciales (PLS)",
+                "icao": "PLS",
+                "class": 3,
+                "pop": "34,000",
+                "country": "Turks and Caicos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.265,
+                    21.773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palma de Mallorca (PMI)",
+                "icao": "PMI",
+                "class": 3,
+                "pop": "488,000",
+                "country": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.7388,
+                    39.5517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puerto Plata (POP)",
+                "icao": "POP",
+                "class": 3,
+                "pop": "330,000",
+                "country": "Dominican Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.5296,
+                    19.7579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palm Springs (PSP)",
+                "icao": "PSP",
+                "class": 3,
+                "pop": "500,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.5067,
+                    33.8297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pointe-\u00e0-Pitre (PTP)",
+                "icao": "PTP",
+                "class": 3,
+                "pop": "310,000",
+                "country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.5318,
+                    16.2635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Punta Cana (PUJ)",
+                "icao": "PUJ",
+                "class": 3,
+                "pop": "150,000",
+                "country": "Dominican Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.3634,
+                    18.5674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Busan Gimhae (PUS)",
+                "icao": "PUS",
+                "class": 4,
+                "pop": "3,400,000",
+                "country": "South Korea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.938,
+                    35.1795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Providence (PVD)",
+                "icao": "PVD",
+                "class": 2,
+                "pop": "196,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4282,
+                    41.724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Portland (Maine) (PWM)",
+                "icao": "PWM",
+                "class": 2,
+                "pop": "68,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.3088,
+                    43.6461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Raleigh-Durham (RDU)",
+                "icao": "RDU",
+                "class": 4,
+                "pop": "1,688,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7875,
+                    35.8776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Richmond (RIC)",
+                "icao": "RIC",
+                "class": 3,
+                "pop": "1,000,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3197,
+                    37.5052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taichung International (RMQ)",
+                "icao": "RMQ",
+                "class": 3,
+                "pop": "2,800,000",
+                "country": "Taiwan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6206,
+                    24.2647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rochester (ROC)",
+                "icao": "ROC",
+                "class": 2,
+                "pop": "210,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.6724,
+                    43.1189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rotterdam The Hague (RTM)",
+                "icao": "RTM",
+                "class": 3,
+                "pop": "672,000",
+                "country": "Netherlands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4372,
+                    51.9569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Diego (SAN)",
+                "icao": "SAN",
+                "class": 4,
+                "pop": "3,315,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1933,
+                    32.7338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Antonio (SAT)",
+                "icao": "SAT",
+                "class": 3,
+                "pop": "1,570,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4697,
+                    29.5337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Savannah (SAV)",
+                "icao": "SAV",
+                "class": 2,
+                "pop": "350,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.2021,
+                    32.1275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santiago de Cuba (SCU)",
+                "icao": "SCU",
+                "class": 3,
+                "pop": "445,000",
+                "country": "Cuba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.835,
+                    19.97
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Louisville (SDF)",
+                "icao": "SDF",
+                "class": 3,
+                "pop": "645,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.736,
+                    38.1744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santo Domingo (SDQ)",
+                "icao": "SDQ",
+                "class": 3,
+                "pop": "3,600,000",
+                "country": "Dominican Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.6689,
+                    18.4297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seattle (SEA)",
+                "icao": "SEA",
+                "class": 5,
+                "pop": "3,613,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3088,
+                    47.4502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Francisco (SFO)",
+                "icao": "SFO",
+                "class": 5,
+                "pop": "3,652,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.379,
+                    37.6213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sitka Rocky Gutierrez (SIT)",
+                "icao": "SIT",
+                "class": 1,
+                "pop": "8,500",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135.361,
+                    57.0471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Jose (SJC)",
+                "icao": "SJC",
+                "class": 3,
+                "pop": "1,500,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.929,
+                    37.3619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salt Lake City (SLC)",
+                "icao": "SLC",
+                "class": 4,
+                "pop": "1,266,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.9791,
+                    40.7899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shannon Airport (SNN)",
+                "icao": "SNN",
+                "class": 3,
+                "pop": "210,000",
+                "country": "Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9248,
+                    52.702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santa Clara (SNU)",
+                "icao": "SNU",
+                "class": 3,
+                "pop": "245,000",
+                "country": "Cuba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.944,
+                    22.491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sarasota (SRQ)",
+                "icao": "SRQ",
+                "class": 3,
+                "pop": "200,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5543,
+                    27.3954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santiago de los Caballeros (STI)",
+                "icao": "STI",
+                "class": 3,
+                "pop": "1,200,000",
+                "country": "Dominican Republic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6044,
+                    19.4069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Louis (STL)",
+                "icao": "STL",
+                "class": 3,
+                "pop": "500,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3597,
+                    38.7477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seville (SVQ)",
+                "icao": "SVQ",
+                "class": 3,
+                "pop": "700,000",
+                "country": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8931,
+                    37.418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Princess Juliana Intl (SXM)",
+                "icao": "SXM",
+                "class": 2,
+                "pop": "70,000",
+                "country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.1089,
+                    18.041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lajes (Terceira) (TER)",
+                "icao": "TER",
+                "class": 2,
+                "pop": "56,000",
+                "country": "Portugal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27.0908,
+                    38.7618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tenerife South (TFS)",
+                "icao": "TFS",
+                "class": 3,
+                "pop": "950,000",
+                "country": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.5725,
+                    28.0445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toulouse-Blagnac (TLS)",
+                "icao": "TLS",
+                "class": 3,
+                "pop": "1,153,000",
+                "country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3638,
+                    43.6291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tainan Airport (TNN)",
+                "icao": "TNN",
+                "class": 3,
+                "pop": "1,858,000",
+                "country": "Taiwan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2058,
+                    22.9502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tampa (TPA)",
+                "icao": "TPA",
+                "class": 3,
+                "pop": "406,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5311,
+                    27.9772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taipei Taiwan Taoyuan International (TPE)",
+                "icao": "TPE",
+                "class": 5,
+                "pop": "7,100,000",
+                "country": "Taiwan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2342,
+                    25.0797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Taipei Songshan (TSA)",
+                "icao": "TSA",
+                "class": 4,
+                "pop": "2,600,000",
+                "country": "Taiwan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5525,
+                    25.0697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tucson (TUS)",
+                "icao": "TUS",
+                "class": 2,
+                "pop": "559,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.9411,
+                    32.1161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Narsarsuaq (UAK)",
+                "icao": "UAK",
+                "class": 1,
+                "pop": "150",
+                "country": "Greenland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.4259,
+                    61.1605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Valencia (VLC)",
+                "icao": "VLC",
+                "class": 3,
+                "pop": "843,000",
+                "country": "Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4816,
+                    39.4893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Destin-Fort Walton (VPS)",
+                "icao": "VPS",
+                "class": 2,
+                "pop": "308,000",
+                "country": "United States"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.5254,
+                    30.4832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Varadero (VRA)",
+                "icao": "VRA",
+                "class": 3,
+                "pop": "30,000",
+                "country": "Cuba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.435,
+                    23.034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saguenay-Bagotville (YBG)",
+                "icao": "YBG",
+                "class": 2,
+                "pop": "146,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9964,
+                    48.3306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Deer Lake (YDF)",
+                "icao": "YDF",
+                "class": 2,
+                "pop": "5,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.3919,
+                    49.2108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Edmonton (YEG)",
+                "icao": "YEG",
+                "class": 3,
+                "pop": "1,600,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.5797,
+                    53.3097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Iqaluit (YFB)",
+                "icao": "YFB",
+                "class": 1,
+                "pop": "8,200",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5558,
+                    63.7564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fredericton (YFC)",
+                "icao": "YFC",
+                "class": 2,
+                "pop": "116,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.5372,
+                    45.8689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gasp\u00e9 (YGP)",
+                "icao": "YGP",
+                "class": 1,
+                "pop": "15,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.4786,
+                    48.7753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magdalen Islands (YGR)",
+                "icao": "YGR",
+                "class": 1,
+                "pop": "12,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.7789,
+                    47.4242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hamilton (YHM)",
+                "icao": "YHM",
+                "class": 2,
+                "pop": "595,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.935,
+                    43.1736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montr\u00e9al-Saint-Hubert (YHU)",
+                "icao": "YHU",
+                "class": 2,
+                "pop": "350,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4169,
+                    45.5175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Halifax (YHX)",
+                "icao": "YHX",
+                "class": 3,
+                "pop": "440,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.5086,
+                    44.8808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kamloops (YKA)",
+                "icao": "YKA",
+                "class": 2,
+                "pop": "127,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.4444,
+                    50.7022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schefferville (YKL)",
+                "icao": "YKL",
+                "class": 1,
+                "pop": "1,500",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.8092,
+                    54.8053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kelowna (YLW)",
+                "icao": "YLW",
+                "class": 2,
+                "pop": "247,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3778,
+                    49.9561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ottawa (YOW)",
+                "icao": "YOW",
+                "class": 3,
+                "pop": "1,480,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6672,
+                    45.3225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Qu\u00e9bec City (YQB)",
+                "icao": "YQB",
+                "class": 3,
+                "pop": "863,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.3933,
+                    46.7911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moncton (YQM)",
+                "icao": "YQM",
+                "class": 2,
+                "pop": "175,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.6786,
+                    46.1122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Comox (YQQ)",
+                "icao": "YQQ",
+                "class": 2,
+                "pop": "81,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.8867,
+                    49.7108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Regina (YQR)",
+                "icao": "YQR",
+                "class": 2,
+                "pop": "269,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.6658,
+                    50.4319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thunder Bay (YQT)",
+                "icao": "YQT",
+                "class": 2,
+                "pop": "133,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.3239,
+                    48.3719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gander (YQX)",
+                "icao": "YQX",
+                "class": 3,
+                "pop": "11,900",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.5681,
+                    48.9369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toronto City Centre (YTZ)",
+                "icao": "YTZ",
+                "class": 2,
+                "pop": "3,370,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3961,
+                    43.6275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montr\u00e9al-Trudeau (YUL)",
+                "icao": "YUL",
+                "class": 4,
+                "pop": "4,415,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7455,
+                    45.4657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vancouver (YVR)",
+                "icao": "YVR",
+                "class": 4,
+                "pop": "2,733,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1815,
+                    49.1967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Winnipeg (YWG)",
+                "icao": "YWG",
+                "class": 3,
+                "pop": "865,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2399,
+                    49.91
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wabush (YWK)",
+                "icao": "YWK",
+                "class": 1,
+                "pop": "9,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.8644,
+                    52.9219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saskatoon (YXE)",
+                "icao": "YXE",
+                "class": 2,
+                "pop": "362,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6997,
+                    52.1708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Prince George (YXS)",
+                "icao": "YXS",
+                "class": 2,
+                "pop": "96,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6789,
+                    53.8889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abbotsford (YXX)",
+                "icao": "YXX",
+                "class": 2,
+                "pop": "170,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3608,
+                    49.0253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Whitehorse (YXY)",
+                "icao": "YXY",
+                "class": 2,
+                "pop": "36,700",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -135.0673,
+                    60.7095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Calgary (YYC)",
+                "icao": "YYC",
+                "class": 4,
+                "pop": "1,709,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0203,
+                    51.1139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Charlottetown (YYG)",
+                "icao": "YYG",
+                "class": 2,
+                "pop": "182,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.1211,
+                    46.29
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Victoria (YYJ)",
+                "icao": "YYJ",
+                "class": 2,
+                "pop": "409,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.4258,
+                    48.6469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goose Bay (YYR)",
+                "icao": "YYR",
+                "class": 2,
+                "pop": "8,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.4258,
+                    53.3192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. John's (YYT)",
+                "icao": "YYT",
+                "class": 2,
+                "pop": "218,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.7519,
+                    47.6186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toronto Pearson (YYZ)",
+                "icao": "YYZ",
+                "class": 5,
+                "pop": "7,100,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6248,
+                    43.6777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yellowknife (YZF)",
+                "icao": "YZF",
+                "class": 2,
+                "pop": "22,400",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.4403,
+                    62.4628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sept-\u00celes (YZV)",
+                "icao": "YZV",
+                "class": 1,
+                "pop": "25,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.2656,
+                    50.2233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zurich (ZRH)",
+                "icao": "ZRH",
+                "class": 4,
+                "pop": "1,466,000",
+                "country": "Switzerland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5481,
+                    47.4581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Salvador (ZSA)",
+                "icao": "ZSA",
+                "class": 1,
+                "pop": "1,000",
+                "country": "Bahamas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.523,
+                    24.0628
+                ]
+            }
+        }
+    ]
+}
