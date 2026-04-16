@@ -23,6 +23,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Acapulco (ACA)",
+                "icao": "ACA",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "850,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.754,
+                    16.757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Akureyri (AEY)",
                 "icao": "AEY",
                 "class": 1,
@@ -574,6 +593,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Ciudad Juarez (CJS)",
+                "icao": "CJS",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "1,462,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.4287,
+                    31.6361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Jeju (CJU)",
                 "icao": "CJU",
                 "class": 3,
@@ -688,6 +726,101 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Cabo San Lucas (CSW)",
+                "icao": "CSW",
+                "class": 2,
+                "color": "DodgerBlue",
+                "size": 8,
+                "pop": "106,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.3,
+                    31.05
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chetumal (CTM)",
+                "icao": "CTM",
+                "class": 2,
+                "color": "DodgerBlue",
+                "size": 8,
+                "pop": "258,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.3282,
+                    18.5047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Culiacan (CUL)",
+                "icao": "CUL",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "932,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.4746,
+                    24.7646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cancun (CUN)",
+                "icao": "CUN",
+                "class": 4,
+                "color": "DarkBlue",
+                "size": 13,
+                "pop": "1,084,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8771,
+                    21.0365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chihuahua (CUU)",
+                "icao": "CUU",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "1,171,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.9644,
+                    28.7028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Cincinnati (CVG)",
                 "icao": "CVG",
                 "class": 3,
@@ -701,6 +834,25 @@
                 "coordinates": [
                     -84.6625,
                     39.0461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cozumel (CZM)",
+                "icao": "CZM",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "115,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.9259,
+                    20.5224
                 ]
             }
         },
@@ -777,6 +929,25 @@
                 "coordinates": [
                     -97.0403,
                     32.8998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Durango MX (DGO)",
+                "icao": "DGO",
+                "class": 2,
+                "color": "DodgerBlue",
+                "size": 8,
+                "pop": "773,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.5283,
+                    24.1242
                 ]
             }
         },
@@ -1049,6 +1220,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Guadalajara (GDL)",
+                "icao": "GDL",
+                "class": 4,
+                "color": "DarkBlue",
+                "size": 13,
+                "pop": "5,656,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.3112,
+                    20.5218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Glasgow (GLA)",
                 "icao": "GLA",
                 "class": 3,
@@ -1163,6 +1353,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Hermosillo (HMO)",
+                "icao": "HMO",
+                "class": 2,
+                "color": "DodgerBlue",
+                "size": 8,
+                "pop": "958,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.0479,
+                    29.0959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Honolulu (HNL)",
                 "icao": "HNL",
                 "class": 4,
@@ -1195,6 +1404,25 @@
                 "coordinates": [
                     -76.315,
                     20.785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Huatulco (HUX)",
+                "icao": "HUX",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "56,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.2626,
+                    15.7753
                 ]
             }
         },
@@ -1486,6 +1714,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "La Paz (LAP)",
+                "icao": "LAP",
+                "class": 2,
+                "color": "DodgerBlue",
+                "size": 8,
+                "pop": "310,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.3622,
+                    24.0727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Las Vegas (LAS)",
                 "icao": "LAS",
                 "class": 4,
@@ -1670,6 +1917,25 @@
                 "coordinates": [
                     -68.9119,
                     18.4506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Loreto (LTO)",
+                "icao": "LTO",
+                "class": 2,
+                "color": "DodgerBlue",
+                "size": 8,
+                "pop": "28,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.3483,
+                    25.9892
                 ]
             }
         },
@@ -1866,6 +2132,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Mexico City (MEX)",
+                "icao": "MEX",
+                "class": 5,
+                "color": "lime",
+                "size": 16,
+                "pop": "23,017,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.0719,
+                    19.4361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Macau (MFM)",
                 "icao": "MFM",
                 "class": 3,
@@ -1898,6 +2183,25 @@
                 "coordinates": [
                     -80.287,
                     25.7959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Merida (MID)",
+                "icao": "MID",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "1,415,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.6577,
+                    20.937
                 ]
             }
         },
@@ -1961,6 +2265,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Monterrey (MTY)",
+                "icao": "MTY",
+                "class": 4,
+                "color": "DarkBlue",
+                "size": 13,
+                "pop": "5,926,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.1069,
+                    25.7785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Myrtle Beach (MYR)",
                 "icao": "MYR",
                 "class": 2,
@@ -1974,6 +2297,25 @@
                 "coordinates": [
                     -78.9283,
                     33.6797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mazatlan (MZT)",
+                "icao": "MZT",
+                "class": 2,
+                "color": "DodgerBlue",
+                "size": 8,
+                "pop": "554,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.2661,
+                    23.1614
                 ]
             }
         },
@@ -2018,6 +2360,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Felipe Angeles International Airport (NLU)",
+                "icao": "NLU",
+                "class": 4,
+                "color": "DarkBlue",
+                "size": 13,
+                "pop": "21,000,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.9983,
+                    19.74
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Nantes Atlantique (NTE)",
                 "icao": "NTE",
                 "class": 3,
@@ -2050,6 +2411,25 @@
                 "coordinates": [
                     -122.2208,
                     37.7214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oaxaca (OAX)",
+                "icao": "OAX",
+                "class": 2,
+                "color": "DodgerBlue",
+                "size": 8,
+                "pop": "735,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7266,
+                    16.9996
                 ]
             }
         },
@@ -2221,6 +2601,25 @@
                 "coordinates": [
                     -72.2925,
                     18.5796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puebla (PBC)",
+                "icao": "PBC",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "3,250,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.3712,
+                    19.1581
                 ]
             }
         },
@@ -2512,6 +2911,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Puerto Vallarta (PVR)",
+                "icao": "PVR",
+                "class": 4,
+                "color": "DarkBlue",
+                "size": 13,
+                "pop": "588,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2541,
+                    20.68
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Portland (Maine) (PWM)",
                 "icao": "PWM",
                 "class": 2,
@@ -2525,6 +2943,25 @@
                 "coordinates": [
                     -70.3088,
                     43.6461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puerto Escondido (PXM)",
+                "icao": "PXM",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "54,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0886,
+                    15.8692
                 ]
             }
         },
@@ -2816,6 +3253,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Los Cabos (SJD)",
+                "icao": "SJD",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "415,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.721,
+                    23.1518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Salt Lake City (SLC)",
                 "icao": "SLC",
                 "class": 4,
@@ -2968,6 +3424,44 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Tampico (TAM)",
+                "icao": "TAM",
+                "class": 2,
+                "color": "DodgerBlue",
+                "size": 8,
+                "pop": "1,093,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.8658,
+                    22.2964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tapachula (TAP)",
+                "icao": "TAP",
+                "class": 2,
+                "color": "DodgerBlue",
+                "size": 8,
+                "pop": "432,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.3701,
+                    14.7943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Lajes (Terceira) (TER)",
                 "icao": "TER",
                 "class": 2,
@@ -3000,6 +3494,63 @@
                 "coordinates": [
                     -16.5725,
                     28.0445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tuxtla Gutierrez (TGZ)",
+                "icao": "TGZ",
+                "class": 2,
+                "color": "DodgerBlue",
+                "size": 8,
+                "pop": "942,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.0225,
+                    16.5617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tijuana (TIJ)",
+                "icao": "TIJ",
+                "class": 4,
+                "color": "DarkBlue",
+                "size": 13,
+                "pop": "2,368,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.9702,
+                    32.5411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Toluca (TLC)",
+                "icao": "TLC",
+                "class": 2,
+                "color": "DodgerBlue",
+                "size": 8,
+                "pop": "2,762,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.566,
+                    19.3371
                 ]
             }
         },
@@ -3082,6 +3633,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Tulum (TQO)",
+                "icao": "TQO",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "65,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6,
+                    20.15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Taipei Songshan (TSA)",
                 "icao": "TSA",
                 "class": 4,
@@ -3139,6 +3709,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Veracruz (VER)",
+                "icao": "VER",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "994,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.1873,
+                    19.1459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Valencia (VLC)",
                 "icao": "VLC",
                 "class": 3,
@@ -3190,6 +3779,25 @@
                 "coordinates": [
                     -81.435,
                     23.034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Villahermosa (VSA)",
+                "icao": "VSA",
+                "class": 2,
+                "color": "DodgerBlue",
+                "size": 8,
+                "pop": "986,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.8174,
+                    17.9969
                 ]
             }
         },
@@ -3893,6 +4501,25 @@
                 "coordinates": [
                     -66.2656,
                     50.2233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ixtapa-Zihuatanejo (ZIH)",
+                "icao": "ZIH",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "126,000",
+                "country": "Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.4606,
+                    17.6014
                 ]
             }
         },
