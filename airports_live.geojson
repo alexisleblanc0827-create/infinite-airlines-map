@@ -365,6 +365,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Aguadilla (BQN)",
+                "icao": "BQN",
+                "class": 2,
+                "color": "DeepSkyBlue",
+                "size": 8,
+                "pop": "258,000",
+                "country": "Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.1294,
+                    18.4949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Bordeaux-M\u00e9rignac (BOD)",
                 "icao": "BOD",
                 "class": 3,
@@ -701,6 +720,25 @@
                 "coordinates": [
                     12.656,
                     55.6179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Culebra (CPX)",
+                "icao": "CPX",
+                "class": 1,
+                "color": "SkyBlue",
+                "size": 6,
+                "pop": "1,800",
+                "country": "Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.3039,
+                    18.3129
                 ]
             }
         },
@@ -2816,6 +2854,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Ponce (PSE)",
+                "icao": "PSE",
+                "class": 2,
+                "color": "DeepSkyBlue",
+                "size": 8,
+                "pop": "131,000",
+                "country": "Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.563,
+                    17.9812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Palm Springs (PSP)",
                 "icao": "PSP",
                 "class": 3,
@@ -3019,6 +3076,25 @@
                 "coordinates": [
                     120.6206,
                     24.2647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bornholm, Ronne (RNN)",
+                "icao": "RNN",
+                "class": 1,
+                "color": "SkyBlue",
+                "size": 6,
+                "pop": "39,000",
+                "country": "Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7595,
+                    55.0633
                 ]
             }
         },
@@ -3266,6 +3342,25 @@
                 "coordinates": [
                     -109.721,
                     23.1518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Juan (SJU)",
+                "icao": "SJU",
+                "class": 4,
+                "color": "DarkBlue",
+                "size": 13,
+                "pop": "2,509,000",
+                "country": "Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.0018,
+                    18.4394
                 ]
             }
         },
