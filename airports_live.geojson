@@ -42,25 +42,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Abashiri (Memanbetsu) (ADJ)",
-                "icao": "ADJ",
-                "class": 2,
-                "color": "DeepSkyBlue",
-                "size": 8,
-                "pop": "34,000",
-                "country": "Japan"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    144.1644,
-                    43.8803
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Akureyri (AEY)",
                 "icao": "AEY",
                 "class": 1,
@@ -150,6 +131,44 @@
                 "coordinates": [
                     -149.996,
                     61.1743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aomori (AOJ)",
+                "icao": "AOJ",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "298,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6908,
+                    40.7347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amami Oshima (ASJ)",
+                "icao": "ASJ",
+                "class": 2,
+                "color": "DeepSkyBlue",
+                "size": 8,
+                "pop": "57,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.7125,
+                    28.4308
                 ]
             }
         },
@@ -840,6 +859,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Sapporo (New Chitose) (CTS)",
+                "icao": "CTS",
+                "class": 4,
+                "color": "DarkBlue",
+                "size": 13,
+                "pop": "2,646,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.6923,
+                    42.7752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Culiacan (CUL)",
                 "icao": "CUL",
                 "class": 3,
@@ -1277,6 +1315,44 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Shizuoka (Mt. Fuji) (FSZ)",
+                "icao": "FSZ",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "2,921,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.1794,
+                    34.7961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fukuoka (FUK)",
+                "icao": "FUK",
+                "class": 4,
+                "color": "DarkBlue",
+                "size": 13,
+                "pop": "5,453,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.4507,
+                    33.5859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Owen Roberts Intl (GCM)",
                 "icao": "GCM",
                 "class": 2,
@@ -1410,6 +1486,44 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Hiroshima (HIJ)",
+                "icao": "HIJ",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "2,000,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.9194,
+                    34.4361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hakodate (HKD)",
+                "icao": "HKD",
+                "class": 2,
+                "color": "DeepSkyBlue",
+                "size": 8,
+                "pop": "240,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8219,
+                    41.77
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Hong Kong (HKG)",
                 "icao": "HKG",
                 "class": 5,
@@ -1442,6 +1556,25 @@
                 "coordinates": [
                     -111.0479,
                     29.0959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tokyo (Haneda) (HND)",
+                "icao": "HND",
+                "class": 5,
+                "color": "lime",
+                "size": 16,
+                "pop": "36,290,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7797,
+                    35.5494
                 ]
             }
         },
@@ -1619,6 +1752,63 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Ishigaki (ISG)",
+                "icao": "ISG",
+                "class": 2,
+                "color": "DeepSkyBlue",
+                "size": 8,
+                "pop": "49,500",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.2447,
+                    24.3964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Osaka (Itami) (ITB)",
+                "icao": "ITB",
+                "class": 4,
+                "color": "DarkBlue",
+                "size": 13,
+                "pop": "1,880,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4382,
+                    34.7855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Izumo (IZO)",
+                "icao": "IZO",
+                "class": 2,
+                "color": "DeepSkyBlue",
+                "size": 8,
+                "pop": "173,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.8903,
+                    35.4139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Jacksonville (JAX)",
                 "icao": "JAX",
                 "class": 3,
@@ -1695,12 +1885,31 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Kochi (KCZ)",
+                "icao": "KCZ",
+                "class": 2,
+                "color": "DeepSkyBlue",
+                "size": 8,
+                "pop": "309,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.6694,
+                    33.5461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Keflav\u00edk (KEF)",
                 "icao": "KEF",
                 "class": 3,
                 "color": "RoyalBlue",
                 "size": 10,
-                "pop": "35,000",
+                "pop": "251,000",
                 "country": "Iceland"
             },
             "geometry": {
@@ -1746,6 +1955,63 @@
                 "coordinates": [
                     -76.7875,
                     17.9357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Osaka (Kansai) (KIX)",
+                "icao": "KIX",
+                "class": 5,
+                "color": "lime",
+                "size": 16,
+                "pop": "18,800,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2328,
+                    34.4342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Miyazaki (KMI)",
+                "icao": "KMI",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "394,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.4486,
+                    31.8772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kumamoto (KMJ)",
+                "icao": "KMJ",
+                "class": 2,
+                "color": "DeepSkyBlue",
+                "size": 8,
+                "pop": "733,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.855,
+                    32.8372
                 ]
             }
         },
