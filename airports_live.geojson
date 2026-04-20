@@ -1467,6 +1467,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Hachijojima (HAC)",
+                "icao": "HAC",
+                "class": 1,
+                "color": "SkyBlue",
+                "size": 6,
+                "pop": "7,500",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7858,
+                    33.1147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Havana (HAV)",
                 "icao": "HAV",
                 "class": 3,
@@ -2626,6 +2645,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Matsuyama (MYJ)",
+                "icao": "MYJ",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "498,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.6997,
+                    33.8272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Myrtle Beach (MYR)",
                 "icao": "MYR",
                 "class": 2,
@@ -2905,6 +2943,25 @@
                 "coordinates": [
                     141.3783,
                     43.1161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oki Island (OKI)",
+                "icao": "OKI",
+                "class": 1,
+                "color": "SkyBlue",
+                "size": 6,
+                "pop": "18,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.3242,
+                    36.1811
                 ]
             }
         },
@@ -4260,6 +4317,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Tsushima (TSJ)",
+                "icao": "TSJ",
+                "class": 1,
+                "color": "SkyBlue",
+                "size": 6,
+                "pop": "26,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.3333,
+                    34.285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Tucson (TUS)",
                 "icao": "TUS",
                 "class": 2,
@@ -4786,6 +4862,25 @@
                 "coordinates": [
                     -54.5681,
                     48.9369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sudbury (YSB)",
+                "icao": "YSB",
+                "class": 1,
+                "color": "SkyBlue",
+                "size": 6,
+                "pop": "191,000",
+                "country": "Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7989,
+                    46.625
                 ]
             }
         },
