@@ -2740,6 +2740,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Tokyo (Narita) (NRT)",
+                "icao": "NRT",
+                "class": 5,
+                "color": "lime",
+                "size": 16,
+                "pop": "13,960,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3929,
+                    35.772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Nantes Atlantique (NTE)",
                 "icao": "NTE",
                 "class": 3,
