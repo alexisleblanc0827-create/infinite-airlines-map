@@ -2721,6 +2721,44 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Nagasaki (NGS)",
+                "icao": "NGS",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "395,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.9136,
+                    32.9169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nagoya (Komaki) (NKM)",
+                "icao": "NKM",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "2,300,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9244,
+                    35.2464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Felipe Angeles International Airport (NLU)",
                 "icao": "NLU",
                 "class": 4,
@@ -2829,6 +2867,44 @@
                 "coordinates": [
                     -156.4305,
                     20.8986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Okinawa (Naha) (OKA)",
+                "icao": "OKA",
+                "class": 4,
+                "color": "DarkBlue",
+                "size": 13,
+                "pop": "315,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.6458,
+                    26.1958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sapporo (Okadama) (OKD)",
+                "icao": "OKD",
+                "class": 1,
+                "color": "SkyBlue",
+                "size": 6,
+                "pop": "1,970,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.3783,
+                    43.1161
                 ]
             }
         },
@@ -3557,6 +3633,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Sendai (SDJ)",
+                "icao": "SDJ",
+                "class": 3,
+                "color": "RoyalBlue",
+                "size": 10,
+                "pop": "2,331,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9169,
+                    38.1397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Louisville (SDF)",
                 "icao": "SDF",
                 "class": 3,
@@ -3627,6 +3722,25 @@
                 "coordinates": [
                     -122.379,
                     37.6213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shimojishima (SHI)",
+                "icao": "SHI",
+                "class": 2,
+                "color": "DeepSkyBlue",
+                "size": 8,
+                "pop": "55,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.145,
+                    24.8267
                 ]
             }
         },
@@ -3874,6 +3988,25 @@
                 "coordinates": [
                     128.6589,
                     35.8939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Takamatsu (TAK)",
+                "icao": "TAK",
+                "class": 2,
+                "color": "DeepSkyBlue",
+                "size": 8,
+                "pop": "414,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.0156,
+                    34.2142
                 ]
             }
         },
@@ -4159,6 +4292,25 @@
                 "coordinates": [
                     -45.4259,
                     61.1605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Osaka (Kobe) (UKB)",
+                "icao": "UKB",
+                "class": 2,
+                "color": "DeepSkyBlue",
+                "size": 8,
+                "pop": "1,520,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.2239,
+                    34.6328
                 ]
             }
         },
