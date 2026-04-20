@@ -2702,6 +2702,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Nagoya (Chubu) (NGO)",
+                "icao": "NGO",
+                "class": 4,
+                "color": "DarkBlue",
+                "size": 13,
+                "pop": "9,512,000",
+                "country": "Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8053,
+                    34.8583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Felipe Angeles International Airport (NLU)",
                 "icao": "NLU",
                 "class": 4,
